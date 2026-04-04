@@ -1,0 +1,91 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "hooks": {
+    "PostToolUse": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "FILE=$(cat | jq -r '.tool_input.file_path // empty'); [ -n \"$FILE\" ] && npx eslint --fix \"$FILE\" 2>/dev/null || true"
+          }
+        ],
+        "matcher": "Edit|Write"
+      },
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "FILE=$(cat | jq -r '.tool_input.file_path // empty'); [ -n \"$FILE\" ] && npx prettier --write \"$FILE\" 2>/dev/null || true"
+          }
+        ],
+        "matcher": "Write"
+      },
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "npx tsc --noEmit"
+          }
+        ],
+        "matcher": "Edit|Write"
+      },
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "FILE=$(cat | jq -r '.tool_input.file_path // empty'); [ -n \"$FILE\" ] && { [ -f biome.json ] && npx @biomejs/biome format --write \"$FILE\" 2>/dev/null || [ -f .prettierrc ] && npx prettier --write \"$FILE\" 2>/dev/null || [ -f dprint.json ] && dprint fmt \"$FILE\" 2>/dev/null || true; } || true"
+          }
+        ],
+        "matcher": "Edit|Write"
+      },
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "FILE=$(cat | jq -r '.tool_input.file_path // empty'); [ -n \"$FILE\" ] && { TEST_FILE=$(echo \"$FILE\" | sed 's/\\.[^.]*$/.test&/'); [ -f \"$TEST_FILE\" ] && npx vitest run \"$TEST_FILE\" --reporter=verbose 2>/dev/null || true; } || true"
+          }
+        ],
+        "matcher": "Edit|Write"
+      }
+    ],
+    "PreToolUse": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "INPUT=$(cat); FILE=$(echo \"$INPUT\" | jq -r '.tool_input.file_path // empty'); echo \"$FILE\" | grep -qE '(\\.env|dist/|node_modules/)' && echo '{\"hookSpecificOutput\":{\"hookEventName\":\"PreToolUse\",\"permissionDecision\":\"deny\",\"permissionDecisionReason\":\"Protected path. Use a different location.\"}}' || true"
+          }
+        ],
+        "matcher": "Write|Edit"
+      },
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "INPUT=$(cat); CMD=$(echo \"$INPUT\" | jq -r '.tool_input.command // empty'); echo \"$CMD\" | grep -qEi '(rm -rf /|git push.*--force|DROP TABLE|DROP DATABASE|mkfs|dd if=)' && echo '{\"hookSpecificOutput\":{\"hookEventName\":\"PreToolUse\",\"permissionDecision\":\"deny\",\"permissionDecisionReason\":\"Blocked: this command is potentially destructive.\"}}' || true"
+          }
+        ],
+        "matcher": "Bash"
+      },
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "INPUT=$(cat); CMD=$(echo \"$INPUT\" | jq -r '.tool_input.command // empty'); if echo \"$CMD\" | grep -q 'git commit'; then MSG=$(echo \"$CMD\" | grep -oP '(?<=-m [\"'\\''\"'\\'''])[^\"'\\''\"'\\''']+''); if [ -n \"$MSG\" ] && ! echo \"$MSG\" | grep -qE '^(feat|fix|refactor|docs|chore|test|style|perf|ci|build|revert)(\\(.+\\))?(!)?:'; then echo '{\"hookSpecificOutput\":{\"hookEventName\":\"PreToolUse\",\"permissionDecision\":\"deny\",\"permissionDecisionReason\":\"Commit message must follow conventional commits: feat:, fix:, refactor:, docs:, chore:, test:, etc.\"}}'; fi; fi"
+          }
+        ],
+        "matcher": "Bash"
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "BRANCH=$(git branch --show-current 2>/dev/null); CHANGES=$(git diff --name-only 2>/dev/null | head -10); [ -n \"$BRANCH\" ] && echo \"Current branch: $BRANCH. Changed files: ${CHANGES:-none}\" || true"
+          }
+        ]
+      }
+    ]
+  }
+}

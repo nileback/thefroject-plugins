@@ -14,27 +14,32 @@ Then install the plugins you want:
 
 ```
 /plugin install thefroject-marketing
+/plugin install thefroject-sales
+/plugin install thefroject-software
 ```
 
 ## Available Plugins
 
-### Marketing
+| Plugin | Skills | Commands | Rules |
+|--------|--------|----------|-------|
+| marketing | 12 | 5 | 3 |
+| sales | 49 | 14 | 8 |
+| operations | 42 | 10 | 9 |
+| customer-success | 33 | 10 | 8 |
+| people-culture | 31 | 6 | 9 |
+| finance | 35 | 8 | 8 |
+| software | 49 | 19 | 15 |
+| data-science | 43 | 21 | 13 |
+| product | 71 | 13 | 9 |
+| research | 26 | 5 | 8 |
 
-12 skills, 5 commands, 3 rules for content creation, campaigns, SEO, and analytics.
-
-**Skills:** Blog Writer, Email Writer, Social Media Writer, Content Repurposer, Campaign Planner, Launch Playbook, Brand Voice Builder, SEO Optimizer, Page CRO, Landing Page Writer, Competitor Researcher, Copy Analyzer
-
-**Commands:** /draft, /campaign, /audit, /launch-plan, /pipeline-content
-
-**Rules:** Brand voice, Content guidelines, Bias auditing
-
-*More plugins coming: Sales, Operations, Customer Success, People & Culture, Finance.*
+Each plugin includes role-specific hooks in `settings.json`.
 
 ## About
 
-The Froject is a guided wizard that generates complete Claude Code workspaces for any role. These plugins are curated subsets of our 153 skills, 47 commands, and 30 agents.
+The Froject is a guided wizard that generates complete Claude Code workspaces for any role. These plugins are curated subsets of our full template library.
 
-Get a full workspace tailored to your role at [thefroject.com](https://thefroject.com).
+Get a personalized workspace at [thefroject.com](https://thefroject.com).
 
 ## License
 

@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "hooks": {
+    "PostToolUse": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "FILE=$(cat | jq -r '.tool_input.file_path // empty'); [ -n \"$FILE\" ] && npx eslint --fix \"$FILE\" 2>/dev/null || true"
+          }
+        ],
+        "matcher": "Edit|Write"
+      },
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "FILE=$(cat | jq -r '.tool_input.file_path // empty'); [ -n \"$FILE\" ] && npx prettier --write \"$FILE\" 2>/dev/null || true"
+          }
+        ],
+        "matcher": "Write"
+      },
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "npx tsc --noEmit"
+          }
+        ],
+        "matcher": "Edit|Write"
+      },
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "FILE=$(cat | jq -r '.tool_input.file_path // empty'); [ -n \"$FILE\" ] && { TEST_FILE=$(echo \"$FILE\" | sed 's/\\.[^.]*$/.test&/'); [ -f \"$TEST_FILE\" ] && npx vitest run \"$TEST_FILE\" --reporter=verbose 2>/dev/null || true; } || true"
+          }
+        ],
+        "matcher": "Edit|Write"
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "BRANCH=$(git branch --show-current 2>/dev/null); CHANGES=$(git diff --name-only 2>/dev/null | head -10); [ -n \"$BRANCH\" ] && echo \"Current branch: $BRANCH. Changed files: ${CHANGES:-none}\" || true"
+          }
+        ]
+      }
+    ]
+  }
+}

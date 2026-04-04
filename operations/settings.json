@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "hooks": {
+    "PostToolUse": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "FILE=$(cat | jq -r '.tool_input.file_path // empty'); [ -n \"$FILE\" ] && wc -w \"$FILE\" 2>/dev/null | awk '{print $1 \" words in \" $2}' || true"
+          }
+        ],
+        "matcher": "Edit|Write"
+      },
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "FILE=$(cat | jq -r '.tool_input.file_path // empty'); [ -n \"$FILE\" ] && echo \"$FILE\" | grep -q \"\\.md$\" && npx markdownlint-cli2 \"$FILE\" 2>/dev/null || true"
+          }
+        ],
+        "matcher": "Edit|Write"
+      },
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "FILE=$(cat | jq -r '.tool_input.file_path // empty'); [ -n \"$FILE\" ] && npx cspell --no-progress --no-summary \"$FILE\" 2>/dev/null || true"
+          }
+        ],
+        "matcher": "Write"
+      }
+    ]
+  }
+}
