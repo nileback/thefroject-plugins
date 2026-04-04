@@ -1,0 +1,11 @@
+{
+  "name": "thefroject-plugins",
+  "description": "Claude Code plugins by The Froject. Skills, commands, and rules for marketing, sales, and more.",
+  "plugins": [
+    {
+      "name": "thefroject-marketing",
+      "path": "marketing",
+      "description": "12 skills, 5 commands, and 3 rules for content creation, campaigns, SEO, and analytics."
+    }
+  ]
+}

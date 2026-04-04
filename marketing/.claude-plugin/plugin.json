@@ -1,0 +1,11 @@
+{
+  "name": "thefroject-marketing",
+  "version": "1.0.0",
+  "description": "Marketing workspace toolkit from The Froject: 12 skills, 5 commands, and 3 rules for content creation, campaigns, SEO, and analytics.",
+  "author": {
+    "name": "The Froject"
+  },
+  "homepage": "https://thefroject.com",
+  "repository": "https://github.com/bjorn-ingmanson/thefroject-marketing",
+  "license": "MIT"
+}
