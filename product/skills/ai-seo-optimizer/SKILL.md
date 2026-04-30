@@ -68,6 +68,16 @@ Check each element against current best practices:
 
 These elements increase the likelihood of being cited by AI systems:
 
+### The Ski Ramp: Document Position Strategy
+Research across 1.2M AI-generated responses shows the first 30% of a document receives 44.2% of all AI citations. Within paragraphs, middle sentences get cited most (53%). Front-load your strongest claims and data in the first third of the page.
+
+### Five Characteristics of Cited Content
+1. **Definitive language** — 2x more citations than hedged content. "X reduces Y by 40%" not "X may help reduce Y."
+2. **Question-answer headers** — 2x more question marks in cited passages. Use "What is X?" as headers.
+3. **Entity richness** — ~20% named entity density (brand names, proper nouns, specific numbers).
+4. **Balanced sentiment** — ~0.47 subjectivity. Include opinions backed by evidence.
+5. **Business-grade clarity** — Flesch-Kincaid grade ~16. Professional but not academic.
+
 ### Concise Answer Blocks
 Write a 40-60 word direct answer paragraph immediately after each H2 question header. This is the "snippet bait" that AI systems extract.
 

@@ -24,6 +24,20 @@ Check `context/` for existing product and audience data. Ask for what is missing
 7. **Channels** — Email list size, social following, community size, press contacts?
 8. **Risk tolerance** — Soft launch (low key, iterate) or big bang (maximum attention)?
 
+## Launch Tiers
+
+| Tier | Examples | Lead Time | Channels |
+|------|---------|-----------|----------|
+| **Tier 1 — Major** | New product, rebrand | 8+ weeks | All channels + press + partners |
+| **Tier 2 — Significant** | Major feature, pricing change | 4-6 weeks | Email, social, blog, community |
+| **Tier 3 — Incremental** | Minor feature, content launch | 1-2 weeks | Blog, changelog, social |
+
+Misclassifying the tier is the most common launch mistake.
+
+## The Attention Sine Wave
+
+Pre-launch (40% of effort): build anticipation. Launch day (20%): execute and engage. Post-launch (40%): capture testimonials, retarget, build momentum. Most teams pour everything into the peak and let the wave crash.
+
 ## Launch Framework: The 3-Phase Model
 
 ### Phase 1: Pre-Launch (Weeks -4 to -1)

@@ -9,7 +9,7 @@ Product management toolkit: PRDs, roadmaps, user research, metrics, launch plann
 /plugin install thefroject-product
 ```
 
-## Skills (71)
+## Skills (99)
 
 - **Blog Writer** — Write engaging blog posts with SEO optimization
 - **SEO Optimizer** — Optimize content and technical SEO for better rankings
@@ -35,7 +35,6 @@ Product management toolkit: PRDs, roadmaps, user research, metrics, launch plann
 - **A/B Test Designer** — Design statistically sound A/B tests with hypotheses and sample sizes
 - **Stakeholder Updater** — Write concise stakeholder and status updates
 - **Roadmap Planner** — Create and maintain product or project roadmaps
-- **A/B Test Analyzer** — Analyze A/B test results with statistical rigor and actionable insights
 - **Programmatic SEO Builder** — Build programmatic SEO strategies with page templates and schema markup
 - **Pain Hypothesis Builder** — Generate testable hypotheses about customer pain points from your ICP and context
 - **GTM Context Builder** — Build and maintain a structured go-to-market context document for outreach and positioning
@@ -76,12 +75,41 @@ Product management toolkit: PRDs, roadmaps, user research, metrics, launch plann
 - **PLG Strategy Builder** — Design a product-led growth strategy from free tier through enterprise expansion
 - **Launch Social Adapter** — Adapt a launch message into platform-specific social posts
 - **Launch Metrics Planner** — Set up UTM tracking, KPIs, and a retrospective framework for launches
+- **Model Strategy** — Choose the right Claude model for each task based on complexity and cost
+- **Positioning Generator** — Build complete product positioning from ICP through messaging hierarchy with validation tests
+- **Messaging Hierarchy** — Build a five-layer messaging stack from POV down to features
+- **VoC Synthesis** — Turn raw customer voice data into structured buyer language and insights
 - **Yes-And Ideation** — Use constructive "yes, and" brainstorming to expand and improve ideas
 - **Content Crosspost** — Adapt one piece of content for multiple platforms with format-specific rules
 - **Docs Freshness Auditor** — Scan documentation for stale content, broken links, and outdated references
 - **Workspace Onboarding** — Systematically explore and document a workspace for someone new to the project
 - **Community Announcer** — Draft release announcements and changelogs for multiple community channels
 - **Discussion Responder** — Draft helpful, contextual replies to GitHub issues and community discussions
+- **Sequential Handoff** — Pass work through ordered stages where each agent builds on the previous result
+- **Map-Reduce** — Run the same analysis across multiple targets in parallel, then merge results into one report
+- **Supervisor** — Execute multi-step processes with validation checkpoints and automatic retry on failure
+- **Swarm** — Dynamic investigation where each agent's findings determine what to explore next
+- **Debate** — Multiple agents argue different positions on a decision, then a judge synthesizes the best answer
+- **Maker-Checker** — One agent creates output, a separate agent validates it, looping until the checker approves
+- **Watchdog** — Background agent monitors for problems while the main agent works, alerting when triggered
+- **Review Miner** — Mine customer reviews for pain points, trigger moments, objections, and ad-ready language
+- **Survey Designer** — Design surveys and questionnaires with proper question types, flow, and bias reduction
+- **Qualitative Analyst** — Code and analyze qualitative data using thematic analysis, affinity mapping, and pattern extraction
+- **Research Brief Writer** — Write concise research briefs and executive summaries that translate findings into decisions
+- **Competitive Battlecard Builder** — Build competitive battlecards with feature matrices, positioning maps, and win/loss analysis for sales and strategy
+- **SaaS Metrics Coach** — Calculate and interpret SaaS unit economics including ARR, MRR, churn, LTV, CAC, and payback period
+- **Investor Update Writer** — Draft monthly or quarterly investor updates with metrics, wins, asks, and forward-looking commentary
+- **Content Humanizer** — Detect and fix AI writing patterns to make content sound natural and human-written
+- **Idea Validator** — Validate business ideas through structured questioning, market sizing, and sell-before-build frameworks
+- **Onboarding CRO** — Optimize post-signup onboarding flows to improve activation, time-to-value, and early retention
+- **Skill Learnings Tracker** — Maintain LEARNINGS.md files per skill that capture what works and what fails, then graduate repeated patterns into permanent rules
+- **User Profile Interview** — Build a personal profile through a short interview to help Claude adapt to your working style and preferences
+- **SOP to Skill Converter** — Turn standard operating procedures and process documents into installable Claude Code skills
+- **Obsidian Vault Manager** — Manage an Obsidian knowledge base including note organization, link optimization, and vault maintenance
+- **File Format Converter** — Convert documents into Markdown so Claude can read and work with them
+- **Plan Tracker** — Maintain structured plan files that track tasks, status, and progress across sessions
+- **Product Naming Guide** — Generate and evaluate product, feature, and company names using naming frameworks
+- **Content Strategy Architect** — Build a content strategy with buyer funnel mapping, distribution channels, and a 12-week calendar
 
 ## Commands (13)
 
@@ -99,7 +127,7 @@ Product management toolkit: PRDs, roadmaps, user research, metrics, launch plann
 - **/pipeline-content** — Full content production pipeline: plan, research, draft, optimize, repurpose
 - **/pipeline-campaign** — Campaign launch pipeline: plan, landing page, emails, social, enablement
 
-## Rules (9)
+## Rules (10)
 
 - **Git Workflow** — ---
 - **Brand Voice** — ---
@@ -110,6 +138,7 @@ Product management toolkit: PRDs, roadmaps, user research, metrics, launch plann
 - **Prompt Hygiene** — ---
 - **Agent Delegation** — ---
 - **Output Verification** — ---
+- **Session Continuity** — ---
 
 ## About
 

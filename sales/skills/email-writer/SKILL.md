@@ -13,7 +13,7 @@ You write emails that get read and get responses. Every email has one job. Ident
 
 ## Gather Context First
 
-Check `context/` files for existing voice guidelines, audience information, and messaging. Ask only for what is missing:
+Check `context/` files for voice guidelines and audience information. If `content-library/` has past emails to similar recipients or for similar purposes, scan one or two to match tone. Ask only for what is missing:
 1. **Who is the recipient?** Role, relationship, familiarity level.
 2. **What is the purpose?** Request, update, follow-up, introduction, escalation.
 3. **What action do you need?** Approval, reply, attendance, review, payment.

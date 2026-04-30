@@ -9,7 +9,7 @@ Operations workspace toolkit: process optimization, compliance, vendor managemen
 /plugin install thefroject-operations
 ```
 
-## Skills (42)
+## Skills (71)
 
 - **Project Manager** — Plan, track, and manage projects and tasks
 - **Meeting Summarizer** — Summarize meetings with actions and decisions
@@ -50,9 +50,38 @@ Operations workspace toolkit: process optimization, compliance, vendor managemen
 - **Session Debrief** — Interactive end-of-session capture of progress, decisions, and carry-forward items
 - **Workspace Optimizer** — Audit your workspace for bloat, gaps, and optimization opportunities
 - **Pre-Mortem Analyst** — Run a pre-mortem to identify how a project could fail before it launches
+- **Model Strategy** — Choose the right Claude model for each task based on complexity and cost
+- **Cash Flow Forecaster** — Forecast cash position, runway, and liquidity needs from actuals and commitments
+- **Financial Model Builder** — Build DCF, scenario analysis, and valuation models from financial data
+- **AR/AP Aging Analysis** — Analyze receivables and payables aging to optimize collections and payment timing
 - **Google Workspace Ops** — Manage Google Drive, Sheets, Docs, Calendar, and Gmail through structured workflows
 - **Docs Freshness Auditor** — Scan documentation for stale content, broken links, and outdated references
 - **Workspace Onboarding** — Systematically explore and document a workspace for someone new to the project
+- **Sequential Handoff** — Pass work through ordered stages where each agent builds on the previous result
+- **Map-Reduce** — Run the same analysis across multiple targets in parallel, then merge results into one report
+- **Supervisor** — Execute multi-step processes with validation checkpoints and automatic retry on failure
+- **Swarm** — Dynamic investigation where each agent's findings determine what to explore next
+- **Debate** — Multiple agents argue different positions on a decision, then a judge synthesizes the best answer
+- **Maker-Checker** — One agent creates output, a separate agent validates it, looping until the checker approves
+- **Watchdog** — Background agent monitors for problems while the main agent works, alerting when triggered
+- **Org Designer** — Design organization structures, team topologies, and reporting lines for growing teams
+- **Engagement Strategist** — Design employee engagement strategies from survey data, feedback patterns, and retention signals
+- **Onboarding Designer** — Design employee onboarding programs from pre-start through 90-day ramp
+- **Workforce Planner** — Model workforce capacity, plan hiring, and forecast staffing needs against business goals
+- **Privacy Compliance Auditor** — Audit applications and processes for GDPR, CCPA, and general privacy compliance
+- **Release Manager** — Coordinate releases with checklists, changelogs, rollback plans, and stakeholder communication
+- **Revenue Operations** — Optimize revenue pipeline with forecasting, CRM hygiene, handoff design, and GTM metrics
+- **Services Proposal Writer** — Generate services and consulting proposals with discovery framework, tiered pricing, and ROI projections
+- **Community Strategist** — Design community strategy including platform selection, engagement programs, and growth mechanics
+- **Data Reconciliation** — Compare data exports from two systems and find the root cause of discrepancies
+- **Product Feed Auditor** — Audit product feeds for quality issues, missing data, and optimization opportunities
+- **Alt Text Generator** — Generate accessible image alt text at scale from crawl data and page context
+- **Translation QA** — Audit translation and localization quality across languages and file formats
+- **Skill Learnings Tracker** — Maintain LEARNINGS.md files per skill that capture what works and what fails, then graduate repeated patterns into permanent rules
+- **User Profile Interview** — Build a personal profile through a short interview to help Claude adapt to your working style and preferences
+- **SOP to Skill Converter** — Turn standard operating procedures and process documents into installable Claude Code skills
+- **File Format Converter** — Convert documents into Markdown so Claude can read and work with them
+- **Plan Tracker** — Maintain structured plan files that track tasks, status, and progress across sessions
 
 ## Commands (10)
 
@@ -67,7 +96,7 @@ Operations workspace toolkit: process optimization, compliance, vendor managemen
 - **/pipeline-process** — Process improvement pipeline: mapping, SOPs, risks, vendor review
 - **/pipeline-hiring** — Hiring pipeline: job description, interview design, onboarding program
 
-## Rules (9)
+## Rules (10)
 
 - **Git Workflow** — ---
 - **Infrastructure Standards** — ---
@@ -78,6 +107,7 @@ Operations workspace toolkit: process optimization, compliance, vendor managemen
 - **Prompt Hygiene** — ---
 - **Agent Delegation** — ---
 - **Output Verification** — ---
+- **Session Continuity** — ---
 
 ## About
 

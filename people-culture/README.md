@@ -9,7 +9,7 @@ People & culture toolkit: job descriptions, interview design, performance review
 /plugin install thefroject-people-culture
 ```
 
-## Skills (31)
+## Skills (51)
 
 - **Project Manager** — Plan, track, and manage projects and tasks
 - **Meeting Summarizer** — Summarize meetings with actions and decisions
@@ -39,9 +39,29 @@ People & culture toolkit: job descriptions, interview design, performance review
 - **Decision Tracker** — Track decisions across sessions with status classification
 - **Session Debrief** — Interactive end-of-session capture of progress, decisions, and carry-forward items
 - **Workspace Optimizer** — Audit your workspace for bloat, gaps, and optimization opportunities
+- **Model Strategy** — Choose the right Claude model for each task based on complexity and cost
 - **Google Workspace Ops** — Manage Google Drive, Sheets, Docs, Calendar, and Gmail through structured workflows
 - **Docs Freshness Auditor** — Scan documentation for stale content, broken links, and outdated references
 - **Workspace Onboarding** — Systematically explore and document a workspace for someone new to the project
+- **Sequential Handoff** — Pass work through ordered stages where each agent builds on the previous result
+- **Map-Reduce** — Run the same analysis across multiple targets in parallel, then merge results into one report
+- **Supervisor** — Execute multi-step processes with validation checkpoints and automatic retry on failure
+- **Swarm** — Dynamic investigation where each agent's findings determine what to explore next
+- **Debate** — Multiple agents argue different positions on a decision, then a judge synthesizes the best answer
+- **Maker-Checker** — One agent creates output, a separate agent validates it, looping until the checker approves
+- **Watchdog** — Background agent monitors for problems while the main agent works, alerting when triggered
+- **Survey Designer** — Design surveys and questionnaires with proper question types, flow, and bias reduction
+- **Qualitative Analyst** — Code and analyze qualitative data using thematic analysis, affinity mapping, and pattern extraction
+- **Org Designer** — Design organization structures, team topologies, and reporting lines for growing teams
+- **Engagement Strategist** — Design employee engagement strategies from survey data, feedback patterns, and retention signals
+- **Onboarding Designer** — Design employee onboarding programs from pre-start through 90-day ramp
+- **Workforce Planner** — Model workforce capacity, plan hiring, and forecast staffing needs against business goals
+- **Skill Learnings Tracker** — Maintain LEARNINGS.md files per skill that capture what works and what fails, then graduate repeated patterns into permanent rules
+- **User Profile Interview** — Build a personal profile through a short interview to help Claude adapt to your working style and preferences
+- **SOP to Skill Converter** — Turn standard operating procedures and process documents into installable Claude Code skills
+- **File Format Converter** — Convert documents into Markdown so Claude can read and work with them
+- **Plan Tracker** — Maintain structured plan files that track tasks, status, and progress across sessions
+- **Brand Guidelines Enforcer** — Check copy against brand voice and visual guidelines and flag violations
 
 ## Commands (6)
 
@@ -52,7 +72,7 @@ People & culture toolkit: job descriptions, interview design, performance review
 - **/compliance-check** — Audit a process or document for regulatory compliance
 - **/pipeline-hiring** — Hiring pipeline: job description, interview design, onboarding program
 
-## Rules (9)
+## Rules (10)
 
 - **Git Workflow** — ---
 - **Content Guidelines** — ---
@@ -63,6 +83,7 @@ People & culture toolkit: job descriptions, interview design, performance review
 - **Prompt Hygiene** — ---
 - **Agent Delegation** — ---
 - **Output Verification** — ---
+- **Session Continuity** — ---
 
 ## About
 

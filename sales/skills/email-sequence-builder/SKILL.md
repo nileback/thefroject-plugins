@@ -79,34 +79,41 @@ For each email provide:
 
 ### Body Copy
 - First sentence about the reader, never the sender
-- One CTA per email
-- Paragraphs 2-3 sentences max
-- 8th-grade reading level for most audiences
+- One CTA per email. First-person CTAs convert 90% better ("Start my trial" vs "Start your trial")
+- Paragraphs 2-3 sentences max. Under 200 words for triggered emails.
+- Plain text outperforms HTML for most B2B audiences
 
-### Timing
-- Welcome email 1: within 5 minutes of signup
-- Spacing: 2-4 days for welcome/launch, 5-7 days for nurture
-- B2B: Tuesday-Thursday, 9-11 AM recipient local time
+### Copywriting Frameworks (use one per email)
+- **BAB (Before-After-Bridge):** Current state → improved state → product as the bridge. Best for emotional pain.
+- **FAB (Features-Advantages-Benefits):** Feature → advantage → personal benefit. Best for logical buyers.
+- **PAS (Problem-Agitate-Solve):** Name the problem → agitate → present solution. Best as a final push.
+- **4Ps (Promise-Picture-Proof-Push):** Promise → paint picture → prove with data → push to action. Best for urgency.
+
+### Behavioral Triggers (outperform time-based: 40-50% open rates vs 23-30%)
+| Trigger | Signal | Action |
+|---------|--------|--------|
+| **Limit approaching** | 80% of free tier | Upgrade nudge with usage context |
+| **Feature gate** | User tries paid feature | Show what they'd unlock |
+| **Milestone** | User hits success metric | Celebrate + suggest next level |
+| **Engagement drop** | No login 7+ days | Re-engagement trigger |
+| **Expansion signal** | Multiple users same domain | Suggest team plan |
+
+### Suppression Rules
+Every sequence needs: entry criteria, exit criteria (purchased, unsubscribed, reached goal), suppression (don't send if support ticket in 48h or in higher-priority sequence), and re-entry cooldown (30 day minimum).
 
 ## Output Format
 
 Save to `outputs/email-sequence-[type].md`:
 
-### Sequence Overview
+| # | Name | Trigger/Timing | Framework | Subject | Goal | CTA |
+|---|------|---------------|-----------|---------|------|-----|
 
-| # | Name | Timing | Subject | Goal | CTA |
-|---|------|--------|---------|------|-----|
-
-### Full Email Specifications
-Complete write-up per email.
-
-### Automation Rules
-- Entry trigger, exit conditions, suppression rules
+Full spec per email: trigger, segment, subject + A/B variant, preview text, body outline, framework used.
 
 ## Do NOT
-- Write subject lines longer than 50 characters
 - Include multiple CTAs in a single email
 - Open any email with "Hi, we are [company]"
 - Use fake urgency or countdown timers that reset
 - Send more than one email per day in any sequence
-- Write a sequence without defining exit conditions
+- Write a sequence without defining suppression and exit rules
+- Default to time-based when behavioral triggers are available

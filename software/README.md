@@ -9,7 +9,7 @@ Software development toolkit: code review, TDD, debugging, security audits, refa
 /plugin install thefroject-software
 ```
 
-## Skills (49)
+## Skills (69)
 
 - **Code Reviewer** — Review code for bugs, performance, and best practices
 - **Test Writer** — Generate thorough test suites for your code
@@ -49,6 +49,7 @@ Software development toolkit: code review, TDD, debugging, security audits, refa
 - **Decision Tracker** — Track decisions across sessions with status classification
 - **Session Debrief** — Interactive end-of-session capture of progress, decisions, and carry-forward items
 - **Workspace Optimizer** — Audit your workspace for bloat, gaps, and optimization opportunities
+- **Model Strategy** — Choose the right Claude model for each task based on complexity and cost
 - **Frontend Design Standards** — Enforce high-quality frontend design and prevent generic AI-generated aesthetics
 - **Docs Freshness Auditor** — Scan documentation for stale content, broken links, and outdated references
 - **Workspace Onboarding** — Systematically explore and document a workspace for someone new to the project
@@ -60,6 +61,25 @@ Software development toolkit: code review, TDD, debugging, security audits, refa
 - **GitHub Community Triage** — Scan and categorize open issues and PRs for efficient community management
 - **Community Announcer** — Draft release announcements and changelogs for multiple community channels
 - **Discussion Responder** — Draft helpful, contextual replies to GitHub issues and community discussions
+- **Sequential Handoff** — Pass work through ordered stages where each agent builds on the previous result
+- **Map-Reduce** — Run the same analysis across multiple targets in parallel, then merge results into one report
+- **Supervisor** — Execute multi-step processes with validation checkpoints and automatic retry on failure
+- **Swarm** — Dynamic investigation where each agent's findings determine what to explore next
+- **Debate** — Multiple agents argue different positions on a decision, then a judge synthesizes the best answer
+- **Maker-Checker** — One agent creates output, a separate agent validates it, looping until the checker approves
+- **Watchdog** — Background agent monitors for problems while the main agent works, alerting when triggered
+- **Privacy Compliance Auditor** — Audit applications and processes for GDPR, CCPA, and general privacy compliance
+- **Release Manager** — Coordinate releases with checklists, changelogs, rollback plans, and stakeholder communication
+- **Onboarding CRO** — Optimize post-signup onboarding flows to improve activation, time-to-value, and early retention
+- **Alt Text Generator** — Generate accessible image alt text at scale from crawl data and page context
+- **Crawl Analyzer** — Analyze website crawl exports to find technical SEO issues and prioritize fixes
+- **Translation QA** — Audit translation and localization quality across languages and file formats
+- **Skill Learnings Tracker** — Maintain LEARNINGS.md files per skill that capture what works and what fails, then graduate repeated patterns into permanent rules
+- **User Profile Interview** — Build a personal profile through a short interview to help Claude adapt to your working style and preferences
+- **SOP to Skill Converter** — Turn standard operating procedures and process documents into installable Claude Code skills
+- **React Native Patterns** — Best practices for React Native and Expo including navigation, platform-specific code, and performance
+- **File Format Converter** — Convert documents into Markdown so Claude can read and work with them
+- **Plan Tracker** — Maintain structured plan files that track tasks, status, and progress across sessions
 
 ## Commands (19)
 
@@ -83,7 +103,7 @@ Software development toolkit: code review, TDD, debugging, security audits, refa
 - **/data-pipeline** — Design or troubleshoot a data pipeline
 - **/pipeline-code-quality** — Code quality pipeline: review, test, debug, refactor
 
-## Rules (15)
+## Rules (16)
 
 - **Code Style** — ---
 - **Testing** — ---
@@ -100,6 +120,7 @@ Software development toolkit: code review, TDD, debugging, security audits, refa
 - **Prompt Hygiene** — ---
 - **Agent Delegation** — ---
 - **Output Verification** — ---
+- **Session Continuity** — ---
 
 ## About
 

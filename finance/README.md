@@ -9,7 +9,7 @@ Finance workspace toolkit: budgeting, forecasting, financial reporting, billing 
 /plugin install thefroject-finance
 ```
 
-## Skills (35)
+## Skills (56)
 
 - **Project Manager** — Plan, track, and manage projects and tasks
 - **Meeting Summarizer** — Summarize meetings with actions and decisions
@@ -42,10 +42,31 @@ Finance workspace toolkit: budgeting, forecasting, financial reporting, billing 
 - **Session Debrief** — Interactive end-of-session capture of progress, decisions, and carry-forward items
 - **Workspace Optimizer** — Audit your workspace for bloat, gaps, and optimization opportunities
 - **Monetization Diagnostician** — Analyze pricing, revenue patterns, and untapped monetization opportunities
+- **Model Strategy** — Choose the right Claude model for each task based on complexity and cost
+- **Cash Flow Forecaster** — Forecast cash position, runway, and liquidity needs from actuals and commitments
+- **Month-End Close** — Structured checklist for month-end financial close with reconciliation steps
+- **Financial Model Builder** — Build DCF, scenario analysis, and valuation models from financial data
+- **AR/AP Aging Analysis** — Analyze receivables and payables aging to optimize collections and payment timing
 - **Google Workspace Ops** — Manage Google Drive, Sheets, Docs, Calendar, and Gmail through structured workflows
 - **Customer Billing Ops** — Manage subscription lifecycles, churn triage, refunds, and billing workflows
 - **Docs Freshness Auditor** — Scan documentation for stale content, broken links, and outdated references
 - **Workspace Onboarding** — Systematically explore and document a workspace for someone new to the project
+- **Sequential Handoff** — Pass work through ordered stages where each agent builds on the previous result
+- **Map-Reduce** — Run the same analysis across multiple targets in parallel, then merge results into one report
+- **Supervisor** — Execute multi-step processes with validation checkpoints and automatic retry on failure
+- **Swarm** — Dynamic investigation where each agent's findings determine what to explore next
+- **Debate** — Multiple agents argue different positions on a decision, then a judge synthesizes the best answer
+- **Maker-Checker** — One agent creates output, a separate agent validates it, looping until the checker approves
+- **Watchdog** — Background agent monitors for problems while the main agent works, alerting when triggered
+- **Workforce Planner** — Model workforce capacity, plan hiring, and forecast staffing needs against business goals
+- **SaaS Metrics Coach** — Calculate and interpret SaaS unit economics including ARR, MRR, churn, LTV, CAC, and payback period
+- **Investor Update Writer** — Draft monthly or quarterly investor updates with metrics, wins, asks, and forward-looking commentary
+- **Data Reconciliation** — Compare data exports from two systems and find the root cause of discrepancies
+- **Skill Learnings Tracker** — Maintain LEARNINGS.md files per skill that capture what works and what fails, then graduate repeated patterns into permanent rules
+- **User Profile Interview** — Build a personal profile through a short interview to help Claude adapt to your working style and preferences
+- **SOP to Skill Converter** — Turn standard operating procedures and process documents into installable Claude Code skills
+- **File Format Converter** — Convert documents into Markdown so Claude can read and work with them
+- **Plan Tracker** — Maintain structured plan files that track tasks, status, and progress across sessions
 
 ## Commands (8)
 
@@ -58,7 +79,7 @@ Finance workspace toolkit: budgeting, forecasting, financial reporting, billing 
 - **/compliance-check** — Audit a process or document for regulatory compliance
 - **/pipeline-budget** — Budget cycle pipeline: analysis, forecasting, reporting, board package
 
-## Rules (8)
+## Rules (9)
 
 - **Git Workflow** — ---
 - **Data Handling** — ---
@@ -68,6 +89,7 @@ Finance workspace toolkit: budgeting, forecasting, financial reporting, billing 
 - **Prompt Hygiene** — ---
 - **Agent Delegation** — ---
 - **Output Verification** — ---
+- **Session Continuity** — ---
 
 ## About
 

@@ -9,7 +9,7 @@ Customer success toolkit: churn prevention, health scoring, QBRs, renewal strate
 /plugin install thefroject-customer-success
 ```
 
-## Skills (33)
+## Skills (48)
 
 - **Project Manager** — Plan, track, and manage projects and tasks
 - **Meeting Summarizer** — Summarize meetings with actions and decisions
@@ -40,12 +40,27 @@ Customer success toolkit: churn prevention, health scoring, QBRs, renewal strate
 - **Session Debrief** — Interactive end-of-session capture of progress, decisions, and carry-forward items
 - **Workspace Optimizer** — Audit your workspace for bloat, gaps, and optimization opportunities
 - **Retention Diagnostician** — Analyze retention patterns across cohorts and identify why users leave
+- **Model Strategy** — Choose the right Claude model for each task based on complexity and cost
+- **VoC Synthesis** — Turn raw customer voice data into structured buyer language and insights
 - **Google Workspace Ops** — Manage Google Drive, Sheets, Docs, Calendar, and Gmail through structured workflows
 - **Customer Billing Ops** — Manage subscription lifecycles, churn triage, refunds, and billing workflows
 - **Docs Freshness Auditor** — Scan documentation for stale content, broken links, and outdated references
 - **Workspace Onboarding** — Systematically explore and document a workspace for someone new to the project
+- **Sequential Handoff** — Pass work through ordered stages where each agent builds on the previous result
+- **Map-Reduce** — Run the same analysis across multiple targets in parallel, then merge results into one report
+- **Supervisor** — Execute multi-step processes with validation checkpoints and automatic retry on failure
+- **Swarm** — Dynamic investigation where each agent's findings determine what to explore next
+- **Debate** — Multiple agents argue different positions on a decision, then a judge synthesizes the best answer
+- **Maker-Checker** — One agent creates output, a separate agent validates it, looping until the checker approves
+- **Watchdog** — Background agent monitors for problems while the main agent works, alerting when triggered
+- **Review Miner** — Mine customer reviews for pain points, trigger moments, objections, and ad-ready language
+- **Skill Learnings Tracker** — Maintain LEARNINGS.md files per skill that capture what works and what fails, then graduate repeated patterns into permanent rules
+- **User Profile Interview** — Build a personal profile through a short interview to help Claude adapt to your working style and preferences
+- **SOP to Skill Converter** — Turn standard operating procedures and process documents into installable Claude Code skills
+- **File Format Converter** — Convert documents into Markdown so Claude can read and work with them
+- **Plan Tracker** — Maintain structured plan files that track tasks, status, and progress across sessions
 
-## Commands (10)
+## Commands (11)
 
 - **/context-save** — Save current session context for future reference
 - **/morning-brief** — Generate a morning briefing from tasks and context
@@ -57,8 +72,9 @@ Customer success toolkit: churn prevention, health scoring, QBRs, renewal strate
 - **/sow** — Generate a statement of work ready for signature
 - **/deal-update** — Generate a weekly pipeline and deal status update
 - **/pipeline-qbr** — QBR cycle pipeline: health scoring, QBR deck, renewal strategy, stakeholder update
+- **/intelligence** — Capture and recall GTM learnings (what worked, what did not, by segment)
 
-## Rules (8)
+## Rules (9)
 
 - **Git Workflow** — ---
 - **Brand Voice** — ---
@@ -68,6 +84,7 @@ Customer success toolkit: churn prevention, health scoring, QBRs, renewal strate
 - **Prompt Hygiene** — ---
 - **Agent Delegation** — ---
 - **Output Verification** — ---
+- **Session Continuity** — ---
 
 ## About
 

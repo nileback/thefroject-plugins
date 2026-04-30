@@ -9,7 +9,7 @@ Data science toolkit: data pipelines, analysis, visualization, model evaluation,
 /plugin install thefroject-data-science
 ```
 
-## Skills (43)
+## Skills (57)
 
 - **Code Reviewer** — Review code for bugs, performance, and best practices
 - **Test Writer** — Generate thorough test suites for your code
@@ -37,7 +37,6 @@ Data science toolkit: data pipelines, analysis, visualization, model evaluation,
 - **Stakeholder Updater** — Write concise stakeholder and status updates
 - **Data Pipeline Designer** — Design and document data pipelines and ETL workflows
 - **Scientific Writer** — Write research papers, literature reviews, and technical reports
-- **A/B Test Analyzer** — Analyze A/B test results with statistical rigor and actionable insights
 - **Skill Creator** — Create new Claude Code skills that extend your workspace capabilities
 - **Workflow Orchestrator** — Route complex tasks to specialized sub-skills using parallel agents
 - **Forecast Modeler** — Build revenue and expense forecasts from historical patterns
@@ -51,9 +50,24 @@ Data science toolkit: data pipelines, analysis, visualization, model evaluation,
 - **Session Debrief** — Interactive end-of-session capture of progress, decisions, and carry-forward items
 - **Workspace Optimizer** — Audit your workspace for bloat, gaps, and optimization opportunities
 - **Metric Tree Builder** — Decompose top-line metrics into a tree to find high-impact levers
+- **Model Strategy** — Choose the right Claude model for each task based on complexity and cost
 - **Docs Freshness Auditor** — Scan documentation for stale content, broken links, and outdated references
 - **Workspace Onboarding** — Systematically explore and document a workspace for someone new to the project
 - **Python Patterns** — Apply Python idioms, type hints, testing patterns, and modern tooling
+- **Sequential Handoff** — Pass work through ordered stages where each agent builds on the previous result
+- **Map-Reduce** — Run the same analysis across multiple targets in parallel, then merge results into one report
+- **Supervisor** — Execute multi-step processes with validation checkpoints and automatic retry on failure
+- **Swarm** — Dynamic investigation where each agent's findings determine what to explore next
+- **Debate** — Multiple agents argue different positions on a decision, then a judge synthesizes the best answer
+- **Maker-Checker** — One agent creates output, a separate agent validates it, looping until the checker approves
+- **Watchdog** — Background agent monitors for problems while the main agent works, alerting when triggered
+- **Literature Reviewer** — Conduct systematic literature reviews with structured search, screening, and synthesis
+- **Research Brief Writer** — Write concise research briefs and executive summaries that translate findings into decisions
+- **Skill Learnings Tracker** — Maintain LEARNINGS.md files per skill that capture what works and what fails, then graduate repeated patterns into permanent rules
+- **User Profile Interview** — Build a personal profile through a short interview to help Claude adapt to your working style and preferences
+- **SOP to Skill Converter** — Turn standard operating procedures and process documents into installable Claude Code skills
+- **File Format Converter** — Convert documents into Markdown so Claude can read and work with them
+- **Plan Tracker** — Maintain structured plan files that track tasks, status, and progress across sessions
 
 ## Commands (21)
 
@@ -79,7 +93,7 @@ Data science toolkit: data pipelines, analysis, visualization, model evaluation,
 - **/data-pipeline** — Design or troubleshoot a data pipeline
 - **/pipeline-code-quality** — Code quality pipeline: review, test, debug, refactor
 
-## Rules (13)
+## Rules (14)
 
 - **Code Style** — ---
 - **Testing** — ---
@@ -94,6 +108,7 @@ Data science toolkit: data pipelines, analysis, visualization, model evaluation,
 - **Prompt Hygiene** — ---
 - **Agent Delegation** — ---
 - **Output Verification** — ---
+- **Session Continuity** — ---
 
 ## About
 

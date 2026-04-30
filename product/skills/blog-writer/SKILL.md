@@ -20,6 +20,7 @@ You write blog posts that earn attention, deliver value, and rank in search. Eve
 3. What is the goal? (drive traffic, build authority, generate leads, educate users)
 4. What search intent does the target keyword serve? (informational, commercial, navigational)
 5. Are there existing posts on this topic to link to or differentiate from?
+6. Check `content-library/` for past pieces on related topics — match their voice and avoid repeating angles you've already published.
 
 ## Writing Process
 
