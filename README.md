@@ -67,7 +67,6 @@ If you want to learn what each plugin covers before installing:
 - [Workspace audit](https://www.thefroject.com/audit) — score and improve an existing workspace
 - [GTM repository](https://www.thefroject.com/gtm-repository) — the full GTM-team workspace generator
 - [Discord community](https://discord.gg/3ZhD9gjqxR)
-- [Source repo (the wizard)](https://github.com/bjorn-ingmanson/Froject)
 
 ## Updating
 
