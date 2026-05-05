@@ -9,7 +9,7 @@ Operations workspace toolkit: process optimization, compliance, vendor managemen
 /plugin install thefroject-operations
 ```
 
-## Skills (71)
+## Skills (94)
 
 - **Project Manager** — Plan, track, and manage projects and tasks
 - **Meeting Summarizer** — Summarize meetings with actions and decisions
@@ -82,6 +82,29 @@ Operations workspace toolkit: process optimization, compliance, vendor managemen
 - **SOP to Skill Converter** — Turn standard operating procedures and process documents into installable Claude Code skills
 - **File Format Converter** — Convert documents into Markdown so Claude can read and work with them
 - **Plan Tracker** — Maintain structured plan files that track tasks, status, and progress across sessions
+- **XLSX Handler** — Read, write, and clean Excel (.xlsx) files. Use when the user mentions Excel, .xlsx, spreadsheet, workbook, formulas, or pivot tables.
+- **DOCX Handler** — Read and write Microsoft Word (.docx) files. Use when the user mentions Word, .docx, document, contract, report, or wants to draft, edit, or extract text from a Word file.
+- **PDF Handler** — Read PDFs (contracts, research reports, vendor docs) and extract text, tables, or structured data. Use when the user mentions PDF, .pdf, contract review, paper, or wants to extract or summarize.
+- **PPTX Handler** — Generate, edit, or extract content from PowerPoint (.pptx) files. Use when the user mentions PowerPoint, slide deck, .pptx, or wants to build or edit slides programmatically.
+- **Internal Comms** — Write internal communications: all-hands updates, change announcements, sensitive memos, exec emails. Use when the user mentions all-hands, change announcement, internal memo, or company-wide message.
+- **Chief of Staff Playbook** — Founder/CEO chief-of-staff workflows: calendar audit, decision routing, cross-functional alignment, exec meeting prep, info brokering. Use when the user mentions chief of staff, COS, founder ops, exec ops, or running ops for a leader.
+- **Business Intelligence** — Pull data from multiple sources, build a dashboard, write the narrative. Ops-side BI workflow distinct from data-analyst (development-tagged). Use when the user mentions BI, business intelligence, KPI dashboard, executive reporting, or cross-functional metrics.
+- **Strategic Alignment** — Design and cascade OKRs across the org so every team knows how their work ladders up to company strategy. Use when the user mentions OKRs, goals, strategic alignment, cascading goals, or annual planning.
+- **Scenario War Room** — Cross-functional what-if modeling for cascading multi-variable scenarios. "What if X AND Y both happen?" Distinct from pre-mortem (single decision) and scenario-modeling (finance-specific). Use when the user is facing complex risk, strategic decision with major downside, or compound adversity.
+- **M&A Playbook** — Acquisition diligence and integration planning. Use when the user mentions M&A, acquisition, buying a company, due diligence, integration plan, or post-merger integration.
+- **Kaizen Improvement** — Continuous improvement methodology — small structured improvements driven from the team level, repeated. Use when the user mentions kaizen, continuous improvement, lean, process improvement methodology, or "fix our process."
+- **Spreadsheet Hygiene** — Audit and clean spreadsheets — find broken formulas, standardize formats, detect data quality issues. Use when the user mentions spreadsheet audit, broken formulas, data quality, clean this sheet, or model audit.
+- **Board Deck Builder** — Build a board meeting deck. Visual slide-formatted update with metrics, narrative, key decisions, risks. Distinct from board-report-builder (narrative report). Use when the user mentions board deck, board meeting deck, board update slides, or quarterly board materials.
+- **Contract & Proposal Writer** — Generate jurisdiction-aware business contracts and proposals: SOWs, NDAs, MSAs, freelance contracts, project proposals. Distinct from proposal-writer (sales narrative). Use when the user mentions contract, SOW, NDA, MSA, freelance agreement, or legal documents.
+- **CEO Advisor** — CEO strategic counsel: company strategy, board management, fundraising rhythm, exec hiring, founder-mode trade-offs. Use when the user mentions CEO decisions, founder-mode, board prep, exec strategy, or CEO advisory.
+- **COO Advisor** — Chief Operating Officer counsel: operational excellence, process maturity, cross-functional alignment, scaling operations. Use when the user mentions COO decisions, ops leadership, operational maturity, scaling, or COO advisor.
+- **Internal Narrative** — The story leadership tells the org — distinct from external positioning. Use when the user mentions internal narrative, town hall message, all-hands story, or "what story are we telling the team."
+- **Due Diligence Checklist** — Comprehensive due diligence checklist for acquisitions, investments, or major partnerships. Use when the user mentions due diligence, DD, diligence checklist, or vendor/target evaluation.
+- **Value Creation Plan** — Post-acquisition value creation plan: revenue, cost, capital structure, and exit-readiness levers. Use when the user mentions value creation plan, VCP, post-acquisition plan, or 100-day plan after deal close.
+- **SOC 2 Compliance** — SOC 2 audit preparation: control documentation, evidence gathering, gap remediation. Use when the user mentions SOC 2, SOC2, security audit, Type 1, Type 2, or service organization controls.
+- **GDPR Compliance** — GDPR compliance: data mapping, DPA agreements, subject rights, breach response, lawful basis. Use when the user mentions GDPR, EU privacy, data protection, DPA, DSAR, or privacy compliance.
+- **ISO 27001 ISMS** — ISO 27001 Information Security Management System (ISMS) build and maintain. Use when the user mentions ISO 27001, ISMS, information security framework, Statement of Applicability, or risk treatment plan.
+- **Risk Management Specialist** — Cross-functional risk register and treatment plans. More structured than risk-register-builder. Use when the user mentions enterprise risk, ERM, risk management framework, or risk treatment plan.
 
 ## Commands (10)
 

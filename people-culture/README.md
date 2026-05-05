@@ -9,7 +9,7 @@ People & culture toolkit: job descriptions, interview design, performance review
 /plugin install thefroject-people-culture
 ```
 
-## Skills (51)
+## Skills (64)
 
 - **Project Manager** — Plan, track, and manage projects and tasks
 - **Meeting Summarizer** — Summarize meetings with actions and decisions
@@ -62,6 +62,19 @@ People & culture toolkit: job descriptions, interview design, performance review
 - **File Format Converter** — Convert documents into Markdown so Claude can read and work with them
 - **Plan Tracker** — Maintain structured plan files that track tasks, status, and progress across sessions
 - **Brand Guidelines Enforcer** — Check copy against brand voice and visual guidelines and flag violations
+- **XLSX Handler** — Read, write, and clean Excel (.xlsx) files. Use when the user mentions Excel, .xlsx, spreadsheet, workbook, formulas, or pivot tables.
+- **DOCX Handler** — Read and write Microsoft Word (.docx) files. Use when the user mentions Word, .docx, document, contract, report, or wants to draft, edit, or extract text from a Word file.
+- **PDF Handler** — Read PDFs (contracts, research reports, vendor docs) and extract text, tables, or structured data. Use when the user mentions PDF, .pdf, contract review, paper, or wants to extract or summarize.
+- **PPTX Handler** — Generate, edit, or extract content from PowerPoint (.pptx) files. Use when the user mentions PowerPoint, slide deck, .pptx, or wants to build or edit slides programmatically.
+- **Internal Comms** — Write internal communications: all-hands updates, change announcements, sensitive memos, exec emails. Use when the user mentions all-hands, change announcement, internal memo, or company-wide message.
+- **Community Marketing** — Plan and grow online communities (Discord, Slack, forum, Reddit) for product growth and brand loyalty. Use when the user mentions community strategy, Discord/Slack community, community-led growth, brand advocates, ambassador program, or word-of-mouth.
+- **Conflict Resolution** — Manager-mediator playbook for interpersonal disputes between employees, between teams, or between manager and report. Use when the user mentions conflict resolution, team conflict, interpersonal dispute, or how to mediate a disagreement.
+- **Leadership Development** — Design first-time-manager curriculum, succession planning, IC-to-manager transition support. Use when the user mentions leadership development, manager training, succession planning, IC to manager, or first-time manager program.
+- **Culture Architect** — Design and maintain organizational culture as the company scales (50, 100, 200, 500+ people). Use when the user mentions company culture, scaling culture, values, behaviors, culture deck, rituals, or onboarding values.
+- **CHRO Advisor** — Chief Human Resources Officer counsel: people strategy, exec hiring, culture-at-scale, comp philosophy, restructuring. Use when the user mentions CHRO decisions, people strategy, exec hiring, culture, or HR leadership.
+- **Internal Narrative** — The story leadership tells the org — distinct from external positioning. Use when the user mentions internal narrative, town hall message, all-hands story, or "what story are we telling the team."
+- **Executive Onboarding Playbook** — First-90-days plan for an exec hire (joining or onboarding their direct reports). Use when the user mentions exec onboarding, new VP onboarding, 30-60-90 day plan, or exec ramp.
+- **Org Health Diagnostic** — Synthesize pulse-survey + retention + Glassdoor + comp data into a leadership-level org health diagnostic. Use when the user mentions org health, organizational diagnostic, leadership-level health check, or "is the team healthy?"
 
 ## Commands (6)
 

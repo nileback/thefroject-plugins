@@ -95,3 +95,19 @@ Based on the forecast:
 - Ignore payment terms. Net-60 receivables and net-30 payables create real cash gaps.
 - Project more than 12 months without flagging uncertainty. Longer forecasts are less reliable.
 - Present a single scenario. Cash planning without downside analysis is wishful thinking.
+
+## 13-Week Cash Flow Mode
+
+Switch to weekly granularity over the next 13 weeks when the user mentions "13-week cash", "rolling cash forecast", "weekly cash flow", or when runway is under 12 months. 13-week is the standard tight-runway forecast — weekly granularity surfaces timing risks (when receivables arrive vs. when payroll hits) that monthly views miss.
+
+For each week, project:
+
+| Week | Receipts | Disbursements | Payroll Week (Y/N) | Net | Closing Balance |
+
+Notes for the 13-week build:
+- Receipts: each named customer with their expected payment week. Don't blend.
+- Disbursements: split fixed weekly (subscriptions) from variable (vendor invoices). List vendors over $5k by name.
+- Payroll: most companies pay bi-weekly. Mark the actual payroll weeks; payroll spikes break the average.
+- One-time items (capex, tax, debt service): list each separately on the week they hit.
+
+Output to `outputs/cash-flow-13-week.md` with a "minimum balance week" flag (the lowest projected closing balance and which week it lands).

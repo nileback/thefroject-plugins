@@ -1,6 +1,6 @@
 ---
 name: ai-seo-optimizer
-description: Optimize content for AI-powered search (Google AI Overviews, ChatGPT, Perplexity) and traditional SEO. Use when you need to make content discoverable by both search crawlers and LLMs.
+description: Optimize content for AI-powered search (Google AI Overviews, ChatGPT, Perplexity) and traditional SEO. Use when you need to make content discoverable by both search crawlers and LLMs. For per-page citation scoring, see geo-citability-scanner. For llms.txt generation/audit, see llms-txt-builder. For AI crawler access checks, see ai-crawler-access-checker.
 triggers:
   - optimize for AI search
   - AEO optimization

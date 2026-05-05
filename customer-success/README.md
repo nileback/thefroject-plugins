@@ -9,7 +9,7 @@ Customer success toolkit: churn prevention, health scoring, QBRs, renewal strate
 /plugin install thefroject-customer-success
 ```
 
-## Skills (48)
+## Skills (57)
 
 - **Project Manager** — Plan, track, and manage projects and tasks
 - **Meeting Summarizer** — Summarize meetings with actions and decisions
@@ -59,6 +59,15 @@ Customer success toolkit: churn prevention, health scoring, QBRs, renewal strate
 - **SOP to Skill Converter** — Turn standard operating procedures and process documents into installable Claude Code skills
 - **File Format Converter** — Convert documents into Markdown so Claude can read and work with them
 - **Plan Tracker** — Maintain structured plan files that track tasks, status, and progress across sessions
+- **XLSX Handler** — Read, write, and clean Excel (.xlsx) files. Use when the user mentions Excel, .xlsx, spreadsheet, workbook, formulas, or pivot tables.
+- **DOCX Handler** — Read and write Microsoft Word (.docx) files. Use when the user mentions Word, .docx, document, contract, report, or wants to draft, edit, or extract text from a Word file.
+- **PDF Handler** — Read PDFs (contracts, research reports, vendor docs) and extract text, tables, or structured data. Use when the user mentions PDF, .pdf, contract review, paper, or wants to extract or summarize.
+- **PPTX Handler** — Generate, edit, or extract content from PowerPoint (.pptx) files. Use when the user mentions PowerPoint, slide deck, .pptx, or wants to build or edit slides programmatically.
+- **Community Marketing** — Plan and grow online communities (Discord, Slack, forum, Reddit) for product growth and brand loyalty. Use when the user mentions community strategy, Discord/Slack community, community-led growth, brand advocates, ambassador program, or word-of-mouth.
+- **Customer Feedback Orchestration** — Run an end-to-end customer feedback program: survey design, channel routing, categorization, close-the-loop response. Distinct from voc-synthesis (one-shot synthesis) — this is the program. Use when the user mentions feedback program, NPS pipeline, customer feedback loop, or VoC operations.
+- **Value Realization Scorer** — Score customer accounts on likelihood-to-renew based on value realization. The 2026 CS shift — capture intended outcomes at deal close, score actual outcomes, output value gap. Use when the user mentions likelihood-to-renew, value realization, value gap, or wants to replace static health scores.
+- **Customer Journey Mapping** — Map the full customer journey — awareness, evaluation, onboarding, adoption, expansion, renewal — with stage definitions, signals, and owner per stage. Use when the user mentions customer journey, journey map, lifecycle map, stages of adoption, or wants to design the CS playbook.
+- **Renewal Orchestration** — Multi-step renewal program: 90/60/30/0-day playbook with executive sponsor outreach, value-realization meetings, and contract logistics. Distinct from renewal-strategist (single-deal). Use when the user mentions renewal program, renewal motion, 90-day renewal, or designing a renewal cadence.
 
 ## Commands (11)
 

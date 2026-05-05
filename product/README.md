@@ -9,7 +9,7 @@ Product management toolkit: PRDs, roadmaps, user research, metrics, launch plann
 /plugin install thefroject-product
 ```
 
-## Skills (99)
+## Skills (115)
 
 - **Blog Writer** — Write engaging blog posts with SEO optimization
 - **SEO Optimizer** — Optimize content and technical SEO for better rankings
@@ -29,7 +29,7 @@ Product management toolkit: PRDs, roadmaps, user research, metrics, launch plann
 - **Win-Loss Analyzer** — Analyze won and lost deals to identify patterns and improve win rates
 - **Pricing Guidelines** — Pricing tiers, engagement models, and pricing copy rules for proposals
 - **PRD Writer** — Write product requirements documents and feature specifications
-- **AI SEO Optimizer** — Optimize content for AI search engines and answer engines
+- **AI SEO Optimizer** — Optimize content for AI search engines and answer engines. The orchestrator for the GEO sub-family — for narrow checks see geo-citability-scanner (per-page citation readiness), llms-txt-builder (LLM-friendly site map), or ai-crawler-access-checker (robots.txt audit).
 - **Page CRO** — Audit and optimize web pages for conversion rate
 - **Analytics Tracker** — Design event tracking plans and analytics implementations
 - **A/B Test Designer** — Design statistically sound A/B tests with hypotheses and sample sizes
@@ -101,7 +101,6 @@ Product management toolkit: PRDs, roadmaps, user research, metrics, launch plann
 - **Investor Update Writer** — Draft monthly or quarterly investor updates with metrics, wins, asks, and forward-looking commentary
 - **Content Humanizer** — Detect and fix AI writing patterns to make content sound natural and human-written
 - **Idea Validator** — Validate business ideas through structured questioning, market sizing, and sell-before-build frameworks
-- **Onboarding CRO** — Optimize post-signup onboarding flows to improve activation, time-to-value, and early retention
 - **Skill Learnings Tracker** — Maintain LEARNINGS.md files per skill that capture what works and what fails, then graduate repeated patterns into permanent rules
 - **User Profile Interview** — Build a personal profile through a short interview to help Claude adapt to your working style and preferences
 - **SOP to Skill Converter** — Turn standard operating procedures and process documents into installable Claude Code skills
@@ -110,6 +109,23 @@ Product management toolkit: PRDs, roadmaps, user research, metrics, launch plann
 - **Plan Tracker** — Maintain structured plan files that track tasks, status, and progress across sessions
 - **Product Naming Guide** — Generate and evaluate product, feature, and company names using naming frameworks
 - **Content Strategy Architect** — Build a content strategy with buyer funnel mapping, distribution channels, and a 12-week calendar
+- **XLSX Handler** — Read, write, and clean Excel (.xlsx) files. Use when the user mentions Excel, .xlsx, spreadsheet, workbook, formulas, or pivot tables.
+- **DOCX Handler** — Read and write Microsoft Word (.docx) files. Use when the user mentions Word, .docx, document, contract, report, or wants to draft, edit, or extract text from a Word file.
+- **PDF Handler** — Read PDFs (contracts, research reports, vendor docs) and extract text, tables, or structured data. Use when the user mentions PDF, .pdf, contract review, paper, or wants to extract or summarize.
+- **PPTX Handler** — Generate, edit, or extract content from PowerPoint (.pptx) files. Use when the user mentions PowerPoint, slide deck, .pptx, or wants to build or edit slides programmatically.
+- **Directory Submissions** — Plan and execute directory submissions for backlinks, AI citation authority, and discovery. Use when the user mentions directory submissions, listings, Product Hunt, BetaList, G2, Capterra, AlternativeTo, AI directories, MCP registries, or wants dofollow backlinks.
+- **Site Architecture** — Plan website page hierarchy, navigation, URL structure, and internal linking. Use when the user is planning what pages a site should have, how to organize them, or restructuring an existing site.
+- **Free Tool Strategy** — Plan a free tool as a marketing channel — calculators, audits, generators that demonstrate the product or capture leads. Use when the user mentions free tool, calculator, audit tool, generator, or "what tool should I build."
+- **Customer Feedback Orchestration** — Run an end-to-end customer feedback program: survey design, channel routing, categorization, close-the-loop response. Distinct from voc-synthesis (one-shot synthesis) — this is the program. Use when the user mentions feedback program, NPS pipeline, customer feedback loop, or VoC operations.
+- **Customer Journey Mapping** — Map the full customer journey — awareness, evaluation, onboarding, adoption, expansion, renewal — with stage definitions, signals, and owner per stage. Use when the user mentions customer journey, journey map, lifecycle map, stages of adoption, or wants to design the CS playbook.
+- **Paywall & Upgrade CRO** — Optimize in-app paywalls, upgrade screens, feature gates, plan switches. Different from page-cro (marketing) and signup-flow-optimizer (acquisition). Use when the user mentions paywall, upgrade screen, feature gate, plan upgrade, or in-app monetization.
+- **Onboarding CRO** — Optimize the post-signup onboarding flow — first-run experience, time-to-value, activation. Distinct from signup-flow-optimizer (signup itself) and onboarding-designer (long-term program). Use when the user mentions onboarding flow, first-run, time-to-value, activation, or aha moment.
+- **CPO Advisor** — Chief Product Officer counsel: product strategy, roadmap-to-strategy alignment, eng/product partnership, product org design. Use when the user mentions CPO strategy, product leadership, product org, or roadmap strategy.
+- **ASO Audit** — Audit App Store and Google Play listings for ranking and conversion
+- **AI Video Producer** — Plan and produce marketing videos using AI generation, avatars, and screen recording
+- **Marketing Image Creator** — Create marketing images using AI generation and design composition
+- **Growth Ideas Library** — Generate stage-relevant marketing ideas matched to product, audience, and resources
+- **Copy Editor** — Edit existing marketing copy through structured sweeps for clarity, specificity, and conversion
 
 ## Commands (13)
 

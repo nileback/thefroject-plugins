@@ -9,7 +9,7 @@ Research toolkit: literature review, user interviews, data analysis, multi-sourc
 /plugin install thefroject-research
 ```
 
-## Skills (45)
+## Skills (49)
 
 - **Data Analyst** — Analyze data, find patterns, and generate insights
 - **Project Manager** — Plan, track, and manage projects and tasks
@@ -56,6 +56,10 @@ Research toolkit: literature review, user interviews, data analysis, multi-sourc
 - **Obsidian Vault Manager** — Manage an Obsidian knowledge base including note organization, link optimization, and vault maintenance
 - **File Format Converter** — Convert documents into Markdown so Claude can read and work with them
 - **Plan Tracker** — Maintain structured plan files that track tasks, status, and progress across sessions
+- **XLSX Handler** — Read, write, and clean Excel (.xlsx) files. Use when the user mentions Excel, .xlsx, spreadsheet, workbook, formulas, or pivot tables.
+- **DOCX Handler** — Read and write Microsoft Word (.docx) files. Use when the user mentions Word, .docx, document, contract, report, or wants to draft, edit, or extract text from a Word file.
+- **PDF Handler** — Read PDFs (contracts, research reports, vendor docs) and extract text, tables, or structured data. Use when the user mentions PDF, .pdf, contract review, paper, or wants to extract or summarize.
+- **PPTX Handler** — Generate, edit, or extract content from PowerPoint (.pptx) files. Use when the user mentions PowerPoint, slide deck, .pptx, or wants to build or edit slides programmatically.
 
 ## Commands (5)
 

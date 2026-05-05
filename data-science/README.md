@@ -9,7 +9,7 @@ Data science toolkit: data pipelines, analysis, visualization, model evaluation,
 /plugin install thefroject-data-science
 ```
 
-## Skills (57)
+## Skills (61)
 
 - **Code Reviewer** — Review code for bugs, performance, and best practices
 - **Test Writer** — Generate thorough test suites for your code
@@ -68,6 +68,10 @@ Data science toolkit: data pipelines, analysis, visualization, model evaluation,
 - **SOP to Skill Converter** — Turn standard operating procedures and process documents into installable Claude Code skills
 - **File Format Converter** — Convert documents into Markdown so Claude can read and work with them
 - **Plan Tracker** — Maintain structured plan files that track tasks, status, and progress across sessions
+- **XLSX Handler** — Read, write, and clean Excel (.xlsx) files. Use when the user mentions Excel, .xlsx, spreadsheet, workbook, formulas, or pivot tables.
+- **DOCX Handler** — Read and write Microsoft Word (.docx) files. Use when the user mentions Word, .docx, document, contract, report, or wants to draft, edit, or extract text from a Word file.
+- **PDF Handler** — Read PDFs (contracts, research reports, vendor docs) and extract text, tables, or structured data. Use when the user mentions PDF, .pdf, contract review, paper, or wants to extract or summarize.
+- **PPTX Handler** — Generate, edit, or extract content from PowerPoint (.pptx) files. Use when the user mentions PowerPoint, slide deck, .pptx, or wants to build or edit slides programmatically.
 
 ## Commands (21)
 

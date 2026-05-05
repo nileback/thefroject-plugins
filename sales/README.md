@@ -9,7 +9,7 @@ Sales workspace toolkit: outreach, deal strategy, competitor intel, pipeline man
 /plugin install thefroject-sales
 ```
 
-## Skills (78)
+## Skills (93)
 
 - **Competitor Researcher** — Research and analyze competitors systematically
 - **Project Manager** — Plan, track, and manage projects and tasks
@@ -89,6 +89,21 @@ Sales workspace toolkit: outreach, deal strategy, competitor intel, pipeline man
 - **Lead Qualifier** — Score leads against a 7-gate qualification model
 - **A/B Test Analyzer** — Analyze A/B test results with significance checks and winner selection
 - **Brand Guidelines Enforcer** — Check copy against brand voice and visual guidelines and flag violations
+- **XLSX Handler** — Read, write, and clean Excel (.xlsx) files. Use when the user mentions Excel, .xlsx, spreadsheet, workbook, formulas, or pivot tables.
+- **DOCX Handler** — Read and write Microsoft Word (.docx) files. Use when the user mentions Word, .docx, document, contract, report, or wants to draft, edit, or extract text from a Word file.
+- **PDF Handler** — Read PDFs (contracts, research reports, vendor docs) and extract text, tables, or structured data. Use when the user mentions PDF, .pdf, contract review, paper, or wants to extract or summarize.
+- **PPTX Handler** — Generate, edit, or extract content from PowerPoint (.pptx) files. Use when the user mentions PowerPoint, slide deck, .pptx, or wants to build or edit slides programmatically.
+- **ABM Orchestration** — Run an Account-Based Marketing program — target list, multi-channel touch plan, intent signal scoring, sales-marketing handoff. Use when the user mentions ABM, account-based marketing, target accounts, named accounts, or 1:1 / 1:few campaigns.
+- **Sales Pipeline** — Pipeline review, stage hygiene, deal-by-deal coaching. The manager view across the team's open deals. Distinct from deal-strategy-analyzer (single deal). Use when the user mentions pipeline review, deal stage hygiene, weekly forecast, or pipeline coverage.
+- **Sales Coaching** — Manager-side coaching on rep calls, emails, and behaviors. Use when the user mentions sales coaching, call review, rep development, ride-along, or how to improve a rep's performance.
+- **Enterprise Sales** — Multi-stakeholder sales process for complex B2B deals — qualification, mutual action plan, exec engagement, security review, multi-thread coverage. Use when the user mentions enterprise sales, complex sale, multi-stakeholder deal, MAP, mutual action plan, or large deal strategy.
+- **Sales Engineer** — Technical pre-sales support — demo prep, technical evaluations, security questionnaires (SOC2, RFPs), proof-of-concept design. Use when the user mentions sales engineer, SE, technical demo, security questionnaire, RFP, or technical pre-sales.
+- **Intent Signal Scoring** — Score buying intent from signals (job changes, web visits, content engagement, third-party intent data). Tells sales WHEN to reach out. Use when the user mentions intent data, intent scoring, buying signals, when to reach out, or sales triggers.
+- **Ads Landing Audit** — Audit a landing page paired with a paid ad campaign. Distinct from page-cro (general). Use when the user mentions ad landing page, message match, ad-to-landing alignment, paid traffic landing, or LP audit for ads.
+- **Competitor Ad Tracker** — Track competitor ad activity across Meta Ad Library, Google Ads Transparency, LinkedIn Ad Library, TikTok Ad Library. Use when the user mentions competitor ads, ad spy, ad library, or what competitors are running.
+- **Sales Enablement** — Coordinate sales collateral creation: pitch decks, one-pagers, objection docs, demo scripts, playbooks. Meta-skill that ties existing sales output skills together. Use when the user mentions sales enablement, sales playbook, sales materials, or "set up sales enablement."
+- **Contract & Proposal Writer** — Generate jurisdiction-aware business contracts and proposals: SOWs, NDAs, MSAs, freelance contracts, project proposals. Distinct from proposal-writer (sales narrative). Use when the user mentions contract, SOW, NDA, MSA, freelance agreement, or legal documents.
+- **CRO Advisor** — Chief Revenue Officer counsel: revenue org structure, comp design, segmentation, forecasting discipline. Use when the user mentions CRO decisions, revenue strategy, sales org, comp plans, or revenue leadership.
 
 ## Commands (15)
 

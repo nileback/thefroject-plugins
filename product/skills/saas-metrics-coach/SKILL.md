@@ -69,3 +69,48 @@ Calculate, interpret, and improve SaaS unit economics. Every metric connects to 
 ## Output
 
 Report includes: calculated metrics, benchmarking, health assessment, and 3 specific recommendations for improvement.
+
+## Unit Economics Deep Dive
+
+When the user wants the unit-economics view specifically (fundraising prep, board narrative, evaluating whether the business model works), focus on the four numbers that decide it: LTV, CAC, payback period, LTV:CAC.
+
+### LTV (Lifetime Value)
+
+LTV = ARPU × Gross Margin × (1 / Monthly Churn Rate)
+
+Use gross margin, not revenue. Cap at 24-36 month horizon. Pure-math LTV with low churn is theoretically infinite and not useful for decisions.
+
+### CAC (Customer Acquisition Cost)
+
+- Blended CAC (sales + marketing spend / new customers): for board reporting.
+- Paid CAC (paid spend only / customers from paid channels): for channel decisions.
+
+### Payback Period
+
+Payback (months) = CAC / (ARPU × Gross Margin)
+
+Healthy by stage:
+- SMB SaaS: under 12 months.
+- Mid-market: 12-18 months.
+- Enterprise: 18-24 months.
+- Transactional: pay back on first or second order.
+
+### LTV:CAC Ratio
+
+- Under 1:1 — losing money on every customer.
+- 1-3:1 — sub-optimal.
+- 3-5:1 — healthy.
+- Over 5:1 — likely under-investing in growth.
+
+### Contribution Margin
+
+Per-customer profit after variable costs (gross margin plus variable CS and infrastructure). Use for honest assessment of whether each customer is genuinely profitable.
+
+### Common diagnostic patterns
+
+- Healthy LTV, high CAC: payback too long. Improve conversion or reduce paid spend.
+- Low LTV, low CAC: small but profitable. Decide whether to scale.
+- High LTV, high CAC: typical enterprise. Validate the LTV is real, not hypothetical.
+- Volatile churn: LTV unstable. Fix churn before celebrating LTV math.
+
+When asked "are we healthy?" surface the unit economics first. Growth without unit economics is borrowed time.

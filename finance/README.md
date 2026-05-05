@@ -9,7 +9,7 @@ Finance workspace toolkit: budgeting, forecasting, financial reporting, billing 
 /plugin install thefroject-finance
 ```
 
-## Skills (56)
+## Skills (67)
 
 - **Project Manager** — Plan, track, and manage projects and tasks
 - **Meeting Summarizer** — Summarize meetings with actions and decisions
@@ -67,6 +67,17 @@ Finance workspace toolkit: budgeting, forecasting, financial reporting, billing 
 - **SOP to Skill Converter** — Turn standard operating procedures and process documents into installable Claude Code skills
 - **File Format Converter** — Convert documents into Markdown so Claude can read and work with them
 - **Plan Tracker** — Maintain structured plan files that track tasks, status, and progress across sessions
+- **XLSX Handler** — Read, write, and clean Excel (.xlsx) files. Use when the user mentions Excel, .xlsx, spreadsheet, workbook, formulas, or pivot tables.
+- **DOCX Handler** — Read and write Microsoft Word (.docx) files. Use when the user mentions Word, .docx, document, contract, report, or wants to draft, edit, or extract text from a Word file.
+- **PDF Handler** — Read PDFs (contracts, research reports, vendor docs) and extract text, tables, or structured data. Use when the user mentions PDF, .pdf, contract review, paper, or wants to extract or summarize.
+- **PPTX Handler** — Generate, edit, or extract content from PowerPoint (.pptx) files. Use when the user mentions PowerPoint, slide deck, .pptx, or wants to build or edit slides programmatically.
+- **Business Intelligence** — Pull data from multiple sources, build a dashboard, write the narrative. Ops-side BI workflow distinct from data-analyst (development-tagged). Use when the user mentions BI, business intelligence, KPI dashboard, executive reporting, or cross-functional metrics.
+- **Scenario War Room** — Cross-functional what-if modeling for cascading multi-variable scenarios. "What if X AND Y both happen?" Distinct from pre-mortem (single decision) and scenario-modeling (finance-specific). Use when the user is facing complex risk, strategic decision with major downside, or compound adversity.
+- **Spreadsheet Hygiene** — Audit and clean spreadsheets — find broken formulas, standardize formats, detect data quality issues. Use when the user mentions spreadsheet audit, broken formulas, data quality, clean this sheet, or model audit.
+- **Scenario Modeling** — Finance-specific scenario planning: best/base/worst case revenue, cost, runway models. Use when the user mentions scenario modeling, financial scenarios, runway under different conditions, or sensitivity analysis.
+- **Board Deck Builder** — Build a board meeting deck. Visual slide-formatted update with metrics, narrative, key decisions, risks. Distinct from board-report-builder (narrative report). Use when the user mentions board deck, board meeting deck, board update slides, or quarterly board materials.
+- **PPC Economics** — PPC financial modeling: LTV, CAC, payback period, target CPA, target ROAS. The unit-economics layer underneath ad spend allocation. Use when the user mentions PPC economics, ad math, payback period, target CPA, or ad unit economics.
+- **CFO Advisor** — CFO-level strategic counsel: capital allocation, runway management, fundraise prep, financial discipline, working capital, M&A finance. Use when the user mentions CFO decisions, capital strategy, runway, fundraise prep, or financial leadership.
 
 ## Commands (8)
 

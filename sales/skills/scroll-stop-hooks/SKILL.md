@@ -50,7 +50,7 @@ Every strong hook uses at least one. The best combine two.
 ### 1. Pattern Interrupt
 Break mental autopilot. Say something unexpected or counterintuitive.
 - "Stop moisturizing your face."
-- "I spent \$0 on ads last month and got our best results ever."
+- "I spent $0 on ads last month and got our best results ever."
 
 ### 2. Identity Call-Out
 Make the right people self-select. Hyper-specific identity triggers higher engagement.

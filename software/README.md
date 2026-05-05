@@ -9,7 +9,7 @@ Software development toolkit: code review, TDD, debugging, security audits, refa
 /plugin install thefroject-software
 ```
 
-## Skills (69)
+## Skills (73)
 
 - **Code Reviewer** — Review code for bugs, performance, and best practices
 - **Test Writer** — Generate thorough test suites for your code
@@ -70,7 +70,6 @@ Software development toolkit: code review, TDD, debugging, security audits, refa
 - **Watchdog** — Background agent monitors for problems while the main agent works, alerting when triggered
 - **Privacy Compliance Auditor** — Audit applications and processes for GDPR, CCPA, and general privacy compliance
 - **Release Manager** — Coordinate releases with checklists, changelogs, rollback plans, and stakeholder communication
-- **Onboarding CRO** — Optimize post-signup onboarding flows to improve activation, time-to-value, and early retention
 - **Alt Text Generator** — Generate accessible image alt text at scale from crawl data and page context
 - **Crawl Analyzer** — Analyze website crawl exports to find technical SEO issues and prioritize fixes
 - **Translation QA** — Audit translation and localization quality across languages and file formats
@@ -80,6 +79,11 @@ Software development toolkit: code review, TDD, debugging, security audits, refa
 - **React Native Patterns** — Best practices for React Native and Expo including navigation, platform-specific code, and performance
 - **File Format Converter** — Convert documents into Markdown so Claude can read and work with them
 - **Plan Tracker** — Maintain structured plan files that track tasks, status, and progress across sessions
+- **XLSX Handler** — Read, write, and clean Excel (.xlsx) files. Use when the user mentions Excel, .xlsx, spreadsheet, workbook, formulas, or pivot tables.
+- **DOCX Handler** — Read and write Microsoft Word (.docx) files. Use when the user mentions Word, .docx, document, contract, report, or wants to draft, edit, or extract text from a Word file.
+- **PDF Handler** — Read PDFs (contracts, research reports, vendor docs) and extract text, tables, or structured data. Use when the user mentions PDF, .pdf, contract review, paper, or wants to extract or summarize.
+- **PPTX Handler** — Generate, edit, or extract content from PowerPoint (.pptx) files. Use when the user mentions PowerPoint, slide deck, .pptx, or wants to build or edit slides programmatically.
+- **CTO Advisor** — CTO-level strategic counsel: tech strategy, build-vs-buy decisions, eng leadership at scale, technical debt management. Use when the user mentions CTO decisions, tech strategy, eng leadership, tech debt, or platform strategy.
 
 ## Commands (19)
 
