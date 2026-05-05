@@ -9,7 +9,7 @@ Sales workspace toolkit: outreach, deal strategy, competitor intel, pipeline man
 /plugin install thefroject-sales
 ```
 
-## Skills (93)
+## Skills (97)
 
 - **Competitor Researcher** — Research and analyze competitors systematically
 - **Project Manager** — Plan, track, and manage projects and tasks
@@ -104,6 +104,10 @@ Sales workspace toolkit: outreach, deal strategy, competitor intel, pipeline man
 - **Sales Enablement** — Coordinate sales collateral creation: pitch decks, one-pagers, objection docs, demo scripts, playbooks. Meta-skill that ties existing sales output skills together. Use when the user mentions sales enablement, sales playbook, sales materials, or "set up sales enablement."
 - **Contract & Proposal Writer** — Generate jurisdiction-aware business contracts and proposals: SOWs, NDAs, MSAs, freelance contracts, project proposals. Distinct from proposal-writer (sales narrative). Use when the user mentions contract, SOW, NDA, MSA, freelance agreement, or legal documents.
 - **CRO Advisor** — Chief Revenue Officer counsel: revenue org structure, comp design, segmentation, forecasting discipline. Use when the user mentions CRO decisions, revenue strategy, sales org, comp plans, or revenue leadership.
+- **Weekly Plan** — Set 3-5 priorities for the week ahead with a realistic schedule
+- **Weekly Review** — Review the week — wins, misses, learnings, and carry-forward decisions
+- **Quarterly Plan** — Set 3-5 strategic priorities for the quarter that align with longer-term goals
+- **Outputs Triage** — Route orphan files to the right subdirectory and surface scattered tasks
 
 ## Commands (15)
 

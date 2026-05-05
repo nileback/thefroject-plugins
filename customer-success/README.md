@@ -9,7 +9,7 @@ Customer success toolkit: churn prevention, health scoring, QBRs, renewal strate
 /plugin install thefroject-customer-success
 ```
 
-## Skills (57)
+## Skills (61)
 
 - **Project Manager** — Plan, track, and manage projects and tasks
 - **Meeting Summarizer** — Summarize meetings with actions and decisions
@@ -68,6 +68,10 @@ Customer success toolkit: churn prevention, health scoring, QBRs, renewal strate
 - **Value Realization Scorer** — Score customer accounts on likelihood-to-renew based on value realization. The 2026 CS shift — capture intended outcomes at deal close, score actual outcomes, output value gap. Use when the user mentions likelihood-to-renew, value realization, value gap, or wants to replace static health scores.
 - **Customer Journey Mapping** — Map the full customer journey — awareness, evaluation, onboarding, adoption, expansion, renewal — with stage definitions, signals, and owner per stage. Use when the user mentions customer journey, journey map, lifecycle map, stages of adoption, or wants to design the CS playbook.
 - **Renewal Orchestration** — Multi-step renewal program: 90/60/30/0-day playbook with executive sponsor outreach, value-realization meetings, and contract logistics. Distinct from renewal-strategist (single-deal). Use when the user mentions renewal program, renewal motion, 90-day renewal, or designing a renewal cadence.
+- **Weekly Plan** — Set 3-5 priorities for the week ahead with a realistic schedule
+- **Weekly Review** — Review the week — wins, misses, learnings, and carry-forward decisions
+- **Quarterly Plan** — Set 3-5 strategic priorities for the quarter that align with longer-term goals
+- **Outputs Triage** — Route orphan files to the right subdirectory and surface scattered tasks
 
 ## Commands (11)
 

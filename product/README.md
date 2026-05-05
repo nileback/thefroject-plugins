@@ -9,7 +9,7 @@ Product management toolkit: PRDs, roadmaps, user research, metrics, launch plann
 /plugin install thefroject-product
 ```
 
-## Skills (115)
+## Skills (119)
 
 - **Blog Writer** — Write engaging blog posts with SEO optimization
 - **SEO Optimizer** — Optimize content and technical SEO for better rankings
@@ -126,6 +126,10 @@ Product management toolkit: PRDs, roadmaps, user research, metrics, launch plann
 - **Marketing Image Creator** — Create marketing images using AI generation and design composition
 - **Growth Ideas Library** — Generate stage-relevant marketing ideas matched to product, audience, and resources
 - **Copy Editor** — Edit existing marketing copy through structured sweeps for clarity, specificity, and conversion
+- **Weekly Plan** — Set 3-5 priorities for the week ahead with a realistic schedule
+- **Weekly Review** — Review the week — wins, misses, learnings, and carry-forward decisions
+- **Quarterly Plan** — Set 3-5 strategic priorities for the quarter that align with longer-term goals
+- **Outputs Triage** — Route orphan files to the right subdirectory and surface scattered tasks
 
 ## Commands (13)
 

@@ -9,7 +9,7 @@ Finance workspace toolkit: budgeting, forecasting, financial reporting, billing 
 /plugin install thefroject-finance
 ```
 
-## Skills (67)
+## Skills (71)
 
 - **Project Manager** — Plan, track, and manage projects and tasks
 - **Meeting Summarizer** — Summarize meetings with actions and decisions
@@ -78,6 +78,10 @@ Finance workspace toolkit: budgeting, forecasting, financial reporting, billing 
 - **Board Deck Builder** — Build a board meeting deck. Visual slide-formatted update with metrics, narrative, key decisions, risks. Distinct from board-report-builder (narrative report). Use when the user mentions board deck, board meeting deck, board update slides, or quarterly board materials.
 - **PPC Economics** — PPC financial modeling: LTV, CAC, payback period, target CPA, target ROAS. The unit-economics layer underneath ad spend allocation. Use when the user mentions PPC economics, ad math, payback period, target CPA, or ad unit economics.
 - **CFO Advisor** — CFO-level strategic counsel: capital allocation, runway management, fundraise prep, financial discipline, working capital, M&A finance. Use when the user mentions CFO decisions, capital strategy, runway, fundraise prep, or financial leadership.
+- **Weekly Plan** — Set 3-5 priorities for the week ahead with a realistic schedule
+- **Weekly Review** — Review the week — wins, misses, learnings, and carry-forward decisions
+- **Quarterly Plan** — Set 3-5 strategic priorities for the quarter that align with longer-term goals
+- **Outputs Triage** — Route orphan files to the right subdirectory and surface scattered tasks
 
 ## Commands (8)
 

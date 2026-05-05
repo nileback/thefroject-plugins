@@ -9,7 +9,7 @@ Data science toolkit: data pipelines, analysis, visualization, model evaluation,
 /plugin install thefroject-data-science
 ```
 
-## Skills (61)
+## Skills (65)
 
 - **Code Reviewer** — Review code for bugs, performance, and best practices
 - **Test Writer** — Generate thorough test suites for your code
@@ -72,6 +72,10 @@ Data science toolkit: data pipelines, analysis, visualization, model evaluation,
 - **DOCX Handler** — Read and write Microsoft Word (.docx) files. Use when the user mentions Word, .docx, document, contract, report, or wants to draft, edit, or extract text from a Word file.
 - **PDF Handler** — Read PDFs (contracts, research reports, vendor docs) and extract text, tables, or structured data. Use when the user mentions PDF, .pdf, contract review, paper, or wants to extract or summarize.
 - **PPTX Handler** — Generate, edit, or extract content from PowerPoint (.pptx) files. Use when the user mentions PowerPoint, slide deck, .pptx, or wants to build or edit slides programmatically.
+- **Weekly Plan** — Set 3-5 priorities for the week ahead with a realistic schedule
+- **Weekly Review** — Review the week — wins, misses, learnings, and carry-forward decisions
+- **Quarterly Plan** — Set 3-5 strategic priorities for the quarter that align with longer-term goals
+- **Outputs Triage** — Route orphan files to the right subdirectory and surface scattered tasks
 
 ## Commands (21)
 

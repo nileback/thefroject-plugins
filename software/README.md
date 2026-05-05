@@ -9,7 +9,7 @@ Software development toolkit: code review, TDD, debugging, security audits, refa
 /plugin install thefroject-software
 ```
 
-## Skills (73)
+## Skills (77)
 
 - **Code Reviewer** — Review code for bugs, performance, and best practices
 - **Test Writer** — Generate thorough test suites for your code
@@ -84,6 +84,10 @@ Software development toolkit: code review, TDD, debugging, security audits, refa
 - **PDF Handler** — Read PDFs (contracts, research reports, vendor docs) and extract text, tables, or structured data. Use when the user mentions PDF, .pdf, contract review, paper, or wants to extract or summarize.
 - **PPTX Handler** — Generate, edit, or extract content from PowerPoint (.pptx) files. Use when the user mentions PowerPoint, slide deck, .pptx, or wants to build or edit slides programmatically.
 - **CTO Advisor** — CTO-level strategic counsel: tech strategy, build-vs-buy decisions, eng leadership at scale, technical debt management. Use when the user mentions CTO decisions, tech strategy, eng leadership, tech debt, or platform strategy.
+- **Weekly Plan** — Set 3-5 priorities for the week ahead with a realistic schedule
+- **Weekly Review** — Review the week — wins, misses, learnings, and carry-forward decisions
+- **Quarterly Plan** — Set 3-5 strategic priorities for the quarter that align with longer-term goals
+- **Outputs Triage** — Route orphan files to the right subdirectory and surface scattered tasks
 
 ## Commands (19)
 

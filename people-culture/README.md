@@ -9,7 +9,7 @@ People & culture toolkit: job descriptions, interview design, performance review
 /plugin install thefroject-people-culture
 ```
 
-## Skills (64)
+## Skills (68)
 
 - **Project Manager** — Plan, track, and manage projects and tasks
 - **Meeting Summarizer** — Summarize meetings with actions and decisions
@@ -75,6 +75,10 @@ People & culture toolkit: job descriptions, interview design, performance review
 - **Internal Narrative** — The story leadership tells the org — distinct from external positioning. Use when the user mentions internal narrative, town hall message, all-hands story, or "what story are we telling the team."
 - **Executive Onboarding Playbook** — First-90-days plan for an exec hire (joining or onboarding their direct reports). Use when the user mentions exec onboarding, new VP onboarding, 30-60-90 day plan, or exec ramp.
 - **Org Health Diagnostic** — Synthesize pulse-survey + retention + Glassdoor + comp data into a leadership-level org health diagnostic. Use when the user mentions org health, organizational diagnostic, leadership-level health check, or "is the team healthy?"
+- **Weekly Plan** — Set 3-5 priorities for the week ahead with a realistic schedule
+- **Weekly Review** — Review the week — wins, misses, learnings, and carry-forward decisions
+- **Quarterly Plan** — Set 3-5 strategic priorities for the quarter that align with longer-term goals
+- **Outputs Triage** — Route orphan files to the right subdirectory and surface scattered tasks
 
 ## Commands (6)
 

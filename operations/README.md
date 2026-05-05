@@ -9,7 +9,7 @@ Operations workspace toolkit: process optimization, compliance, vendor managemen
 /plugin install thefroject-operations
 ```
 
-## Skills (94)
+## Skills (98)
 
 - **Project Manager** — Plan, track, and manage projects and tasks
 - **Meeting Summarizer** — Summarize meetings with actions and decisions
@@ -105,6 +105,10 @@ Operations workspace toolkit: process optimization, compliance, vendor managemen
 - **GDPR Compliance** — GDPR compliance: data mapping, DPA agreements, subject rights, breach response, lawful basis. Use when the user mentions GDPR, EU privacy, data protection, DPA, DSAR, or privacy compliance.
 - **ISO 27001 ISMS** — ISO 27001 Information Security Management System (ISMS) build and maintain. Use when the user mentions ISO 27001, ISMS, information security framework, Statement of Applicability, or risk treatment plan.
 - **Risk Management Specialist** — Cross-functional risk register and treatment plans. More structured than risk-register-builder. Use when the user mentions enterprise risk, ERM, risk management framework, or risk treatment plan.
+- **Weekly Plan** — Set 3-5 priorities for the week ahead with a realistic schedule
+- **Weekly Review** — Review the week — wins, misses, learnings, and carry-forward decisions
+- **Quarterly Plan** — Set 3-5 strategic priorities for the quarter that align with longer-term goals
+- **Outputs Triage** — Route orphan files to the right subdirectory and surface scattered tasks
 
 ## Commands (10)
 
