@@ -55,7 +55,7 @@ Data science toolkit: data pipelines, analysis, visualization, model evaluation,
 - **Workspace Onboarding** — Systematically explore and document a workspace for someone new to the project
 - **Python Patterns** — Apply Python idioms, type hints, testing patterns, and modern tooling
 - **Sequential Handoff** — Pass work through ordered stages where each agent builds on the previous result
-- **Map-Reduce** — Run the same analysis across multiple targets in parallel, then merge results into one report
+- **Parallel Analyze** — Run the same analysis across many targets in parallel, then merge the results into one report
 - **Supervisor** — Execute multi-step processes with validation checkpoints and automatic retry on failure
 - **Swarm** — Dynamic investigation where each agent's findings determine what to explore next
 - **Debate** — Multiple agents argue different positions on a decision, then a judge synthesizes the best answer
