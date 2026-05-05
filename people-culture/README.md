@@ -9,7 +9,7 @@ People & culture toolkit: job descriptions, interview design, performance review
 /plugin install thefroject-people-culture
 ```
 
-## Skills (68)
+## Skills (70)
 
 - **Project Manager** — Plan, track, and manage projects and tasks
 - **Meeting Summarizer** — Summarize meetings with actions and decisions
@@ -79,6 +79,8 @@ People & culture toolkit: job descriptions, interview design, performance review
 - **Weekly Review** — Review the week — wins, misses, learnings, and carry-forward decisions
 - **Quarterly Plan** — Set 3-5 strategic priorities for the quarter that align with longer-term goals
 - **Outputs Triage** — Route orphan files to the right subdirectory and surface scattered tasks
+- **Agent Creator** — Design and generate sub-agent definitions through a structured interview
+- **Feature Adoption Coach** — Match new Claude Code features to your workspace and propose adoption steps
 
 ## Commands (6)
 

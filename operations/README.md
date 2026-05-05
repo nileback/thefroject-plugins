@@ -9,7 +9,7 @@ Operations workspace toolkit: process optimization, compliance, vendor managemen
 /plugin install thefroject-operations
 ```
 
-## Skills (98)
+## Skills (100)
 
 - **Project Manager** — Plan, track, and manage projects and tasks
 - **Meeting Summarizer** — Summarize meetings with actions and decisions
@@ -109,6 +109,8 @@ Operations workspace toolkit: process optimization, compliance, vendor managemen
 - **Weekly Review** — Review the week — wins, misses, learnings, and carry-forward decisions
 - **Quarterly Plan** — Set 3-5 strategic priorities for the quarter that align with longer-term goals
 - **Outputs Triage** — Route orphan files to the right subdirectory and surface scattered tasks
+- **Agent Creator** — Design and generate sub-agent definitions through a structured interview
+- **Feature Adoption Coach** — Match new Claude Code features to your workspace and propose adoption steps
 
 ## Commands (10)
 
