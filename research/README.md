@@ -9,7 +9,7 @@ Research toolkit: literature review, user interviews, data analysis, multi-sourc
 /plugin install thefroject-research
 ```
 
-## Skills (55)
+## Skills (56)
 
 - **Data Analyst** — Analyze data, find patterns, and generate insights
 - **Project Manager** — Plan, track, and manage projects and tasks
@@ -66,6 +66,7 @@ Research toolkit: literature review, user interviews, data analysis, multi-sourc
 - **Outputs Triage** — Route orphan files to the right subdirectory and surface scattered tasks
 - **Agent Creator** — Design and generate sub-agent definitions through a structured interview
 - **Feature Adoption Coach** — Match new Claude Code features to your workspace and propose adoption steps
+- **Idea to PRD** — Walk a raw product idea through staged discovery to a handoff-ready PRD
 
 ## Commands (5)
 

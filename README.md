@@ -24,18 +24,18 @@ Then install the plugins you want:
 
 | Plugin | Skills | Commands | Rules |
 |--------|--------|----------|-------|
-| [marketing](./marketing) | 148 | 16 | 10 |
-| [sales](./sales) | 99 | 15 | 9 |
-| [operations](./operations) | 100 | 10 | 10 |
-| [customer-success](./customer-success) | 63 | 11 | 9 |
-| [people-culture](./people-culture) | 70 | 6 | 10 |
-| [finance](./finance) | 73 | 8 | 9 |
-| [software](./software) | 79 | 19 | 16 |
-| [data-science](./data-science) | 67 | 21 | 14 |
-| [product](./product) | 121 | 13 | 10 |
-| [research](./research) | 55 | 5 | 9 |
+| [marketing](./marketing) | 149 | 16 | 10 |
+| [sales](./sales) | 100 | 15 | 9 |
+| [operations](./operations) | 101 | 10 | 10 |
+| [customer-success](./customer-success) | 64 | 11 | 9 |
+| [people-culture](./people-culture) | 71 | 6 | 10 |
+| [finance](./finance) | 74 | 8 | 9 |
+| [software](./software) | 80 | 19 | 16 |
+| [data-science](./data-science) | 68 | 21 | 14 |
+| [product](./product) | 122 | 13 | 10 |
+| [research](./research) | 56 | 5 | 9 |
 
-Totals: 875 skills, 124 commands, 106 rules across all plugins. Each plugin also includes role-specific hooks in `settings.json`.
+Totals: 885 skills, 124 commands, 106 rules across all plugins. Each plugin also includes role-specific hooks in `settings.json`.
 
 Many templates are tagged for multiple roles, so the same skill may appear in more than one plugin. The Froject's full library counts each template once — see [thefroject.com/templates](https://www.thefroject.com/templates) for the canonical list.
 

@@ -9,7 +9,7 @@ Product management toolkit: PRDs, roadmaps, user research, metrics, launch plann
 /plugin install thefroject-product
 ```
 
-## Skills (121)
+## Skills (122)
 
 - **Blog Writer** — Write engaging blog posts with SEO optimization
 - **SEO Optimizer** — Optimize content and technical SEO for better rankings
@@ -132,6 +132,7 @@ Product management toolkit: PRDs, roadmaps, user research, metrics, launch plann
 - **Outputs Triage** — Route orphan files to the right subdirectory and surface scattered tasks
 - **Agent Creator** — Design and generate sub-agent definitions through a structured interview
 - **Feature Adoption Coach** — Match new Claude Code features to your workspace and propose adoption steps
+- **Idea to PRD** — Walk a raw product idea through staged discovery to a handoff-ready PRD
 
 ## Commands (13)
 

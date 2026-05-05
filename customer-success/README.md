@@ -9,7 +9,7 @@ Customer success toolkit: churn prevention, health scoring, QBRs, renewal strate
 /plugin install thefroject-customer-success
 ```
 
-## Skills (63)
+## Skills (64)
 
 - **Project Manager** — Plan, track, and manage projects and tasks
 - **Meeting Summarizer** — Summarize meetings with actions and decisions
@@ -74,6 +74,7 @@ Customer success toolkit: churn prevention, health scoring, QBRs, renewal strate
 - **Outputs Triage** — Route orphan files to the right subdirectory and surface scattered tasks
 - **Agent Creator** — Design and generate sub-agent definitions through a structured interview
 - **Feature Adoption Coach** — Match new Claude Code features to your workspace and propose adoption steps
+- **Idea to PRD** — Walk a raw product idea through staged discovery to a handoff-ready PRD
 
 ## Commands (11)
 
