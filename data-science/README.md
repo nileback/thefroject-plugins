@@ -9,7 +9,7 @@ Data science toolkit: data pipelines, analysis, visualization, model evaluation,
 /plugin install thefroject-data-science
 ```
 
-## Skills (68)
+## Skills (69)
 
 - **Code Reviewer** — Review code for bugs, performance, and best practices
 - **Test Writer** — Generate thorough test suites for your code
@@ -79,6 +79,7 @@ Data science toolkit: data pipelines, analysis, visualization, model evaluation,
 - **Agent Creator** — Design and generate sub-agent definitions through a structured interview
 - **Feature Adoption Coach** — Match new Claude Code features to your workspace and propose adoption steps
 - **Idea to PRD** — Walk a raw product idea through staged discovery to a handoff-ready PRD
+- **Enrich Workspace** — Scan the workspace for context gaps and interview the user to fill them
 
 ## Commands (21)
 

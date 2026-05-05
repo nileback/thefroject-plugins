@@ -9,7 +9,7 @@ Finance workspace toolkit: budgeting, forecasting, financial reporting, billing 
 /plugin install thefroject-finance
 ```
 
-## Skills (74)
+## Skills (75)
 
 - **Project Manager** — Plan, track, and manage projects and tasks
 - **Meeting Summarizer** — Summarize meetings with actions and decisions
@@ -85,6 +85,7 @@ Finance workspace toolkit: budgeting, forecasting, financial reporting, billing 
 - **Agent Creator** — Design and generate sub-agent definitions through a structured interview
 - **Feature Adoption Coach** — Match new Claude Code features to your workspace and propose adoption steps
 - **Idea to PRD** — Walk a raw product idea through staged discovery to a handoff-ready PRD
+- **Enrich Workspace** — Scan the workspace for context gaps and interview the user to fill them
 
 ## Commands (8)
 

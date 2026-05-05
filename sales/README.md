@@ -9,7 +9,7 @@ Sales workspace toolkit: outreach, deal strategy, competitor intel, pipeline man
 /plugin install thefroject-sales
 ```
 
-## Skills (100)
+## Skills (101)
 
 - **Competitor Researcher** — Research and analyze competitors systematically
 - **Project Manager** — Plan, track, and manage projects and tasks
@@ -111,6 +111,7 @@ Sales workspace toolkit: outreach, deal strategy, competitor intel, pipeline man
 - **Agent Creator** — Design and generate sub-agent definitions through a structured interview
 - **Feature Adoption Coach** — Match new Claude Code features to your workspace and propose adoption steps
 - **Idea to PRD** — Walk a raw product idea through staged discovery to a handoff-ready PRD
+- **Enrich Workspace** — Scan the workspace for context gaps and interview the user to fill them
 
 ## Commands (15)
 
