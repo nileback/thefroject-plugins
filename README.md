@@ -30,12 +30,12 @@ Then install the plugins you want:
 | [customer-success](./customer-success) | 65 | 11 | 9 |
 | [people-culture](./people-culture) | 72 | 6 | 10 |
 | [finance](./finance) | 75 | 8 | 9 |
-| [software](./software) | 81 | 19 | 16 |
+| [software](./software) | 82 | 19 | 16 |
 | [data-science](./data-science) | 69 | 21 | 14 |
-| [product](./product) | 123 | 13 | 10 |
+| [product](./product) | 125 | 13 | 10 |
 | [research](./research) | 57 | 5 | 9 |
 
-Totals: 895 skills, 124 commands, 106 rules across all plugins. Each plugin also includes role-specific hooks in `settings.json`.
+Totals: 898 skills, 124 commands, 106 rules across all plugins. Each plugin also includes role-specific hooks in `settings.json`.
 
 Many templates are tagged for multiple roles, so the same skill may appear in more than one plugin. The Froject's full library counts each template once — see [thefroject.com/templates](https://www.thefroject.com/templates) for the canonical list.
 

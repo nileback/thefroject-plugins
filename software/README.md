@@ -9,7 +9,7 @@ Software development toolkit: code review, TDD, debugging, security audits, refa
 /plugin install thefroject-software
 ```
 
-## Skills (81)
+## Skills (82)
 
 - **Code Reviewer** — Review code for bugs, performance, and best practices
 - **Test Writer** — Generate thorough test suites for your code
@@ -92,6 +92,7 @@ Software development toolkit: code review, TDD, debugging, security audits, refa
 - **Feature Adoption Coach** — Match new Claude Code features to your workspace and propose adoption steps
 - **Idea to PRD** — Walk a raw product idea through staged discovery to a handoff-ready PRD
 - **Enrich Workspace** — Scan the workspace for context gaps and interview the user to fill them
+- **DX Optimizer** — Audit developer experience: build times, feedback loops, onboarding friction, tooling
 
 ## Commands (19)
 

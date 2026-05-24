@@ -143,3 +143,16 @@ Save competitive analysis to `outputs/competitive/`.
 - Produce analysis without actionable recommendations
 - Assume the competitive landscape is static. Include trajectory and trend analysis.
 - Copy competitor strategy. Understand it, then differentiate from it.
+
+## Succeeds when
+- Every finding links to a decision (positioning, pricing, feature, channel)
+- Competitor strengths are stated as honestly as competitor weaknesses
+- Trajectory is captured: where they are heading, not just where they are
+- Recommendations are ranked by impact, not by ease of execution
+- Assumptions are marked separately from evidence
+
+## Fails when
+- The analysis stops at a feature matrix without a positioning view
+- Recommendations are generic ("we should respond") rather than specific
+- The competitive landscape is treated as a snapshot, missing direction
+- Competitor strengths are minimized to make your position look stronger

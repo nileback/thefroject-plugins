@@ -150,3 +150,16 @@ What to measure weekly for 4 weeks after launch.
 - Skip the teaser phase — warm audiences convert 3-5x better than cold audiences
 - Schedule every post and walk away — launch day requires active engagement and real-time responses
 - Plan a "big bang" launch for an unvalidated product — soft launch first, then amplify what works
+
+## Succeeds when
+- The launch has one primary metric with a target number and a date
+- Sales, CS, and support know what is launching and how to talk about it
+- Tier classification matches actual scope so effort is not over- or underspent
+- The post-launch phase is staffed and planned, not improvised
+- Contingencies exist for low engagement, site failure, and negative feedback
+
+## Fails when
+- The launch date is set before assets and enablement are ready
+- Success is measured in impressions or press hits instead of pipeline or adoption
+- The team peaks on launch day and lets the wave crash
+- The audience is "everyone" instead of a segmented primary target

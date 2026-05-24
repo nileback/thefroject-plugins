@@ -100,7 +100,7 @@ Top 3 desires, distinguished from what they say they want vs. what they actually
 The exact language they use. Not your language. Theirs.
 
 ### What Triggers Action
-The events that move them from "thinking about it" to "looking for a solution."
+The events that move them from "thinking about it" to "looking for a solution." This is the **switching trigger** in Jobs-to-be-Done terms — the moment the job becomes urgent enough to hire a new solution for. Capture the trigger event itself, not just the resulting search.
 
 ### What They Fear About Switching
 Objections and concerns, ranked by frequency.
@@ -113,3 +113,16 @@ A vocabulary guide: terms that resonate vs. terms that fall flat or create confu
 - Weight all sources equally. A 30-minute interview has more signal than a one-line review. Note source quality alongside frequency.
 - Ignore small-sample contradictions. Even one contradiction can reveal a pattern worth investigating.
 - Produce a report and stop. The output should directly feed into messaging, positioning, and content. End with specific recommendations for how to use each finding.
+
+## Succeeds when
+- Echo language is specific enough to drop directly into headlines, ads, and sales emails
+- Switching triggers (JTBD) are captured as events, not as abstract motivations
+- Themes are ranked by triangulated frequency across sources, not by source enthusiasm
+- Contradictions between stated preferences and actual behavior are surfaced
+- Output ends with concrete copy or positioning changes, not a stand-alone report
+
+## Fails when
+- Quotes are paraphrased into your interpretation before analysis
+- All sources are weighted equally regardless of depth
+- The report identifies themes without naming the words buyers actually use
+- Findings sit in a doc without changing any downstream messaging

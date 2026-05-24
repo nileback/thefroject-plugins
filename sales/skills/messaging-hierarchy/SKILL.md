@@ -110,3 +110,17 @@ Write it out word for word. Read it aloud. If it takes more than 70 seconds, cut
 - Use internal jargon in buyer-facing layers. If your team says it but your buyers don't, translate.
 - Build more than 4 pillars. If you cannot narrow to 4, your positioning is trying to be everything.
 - Skip the quality tests. They exist because each layer has a specific failure mode. Test every layer before building the next.
+
+## Succeeds when
+- Sales, marketing, CS, and execs all describe the product in the same words
+- Every proof point is specific (a number, a quote, or a named customer)
+- The 60-second pitch can be delivered without notes
+- Features map cleanly to pillars without orphans
+- Personas adapt the emphasis without contradicting the core story
+
+## Fails when
+- Pillars overlap so much that removing one would not collapse the story
+- Proof points use vague language ("customers love us") instead of specifics
+- Feature messaging is not anchored to a pillar
+- The POV is product-centric instead of a market belief
+- Different personas get different facts instead of different emphasis

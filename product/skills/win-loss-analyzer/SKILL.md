@@ -116,3 +116,16 @@ Flag any caveats: small sample sizes, inconsistent data entry, missing fields.
 - Present findings without specific, actionable recommendations
 - Assume self-reported loss reasons are accurate (reps often say "price" when the real reason is different)
 - Skip the time trend analysis — point-in-time snapshots miss important shifts
+
+## Succeeds when
+- Findings lead to specific, owned changes in sales, product, or marketing
+- "No decision" losses are analyzed separately from competitive losses
+- Loss reasons are validated against buyer interviews, not only rep self-reports
+- Trends across periods are surfaced, not just point-in-time snapshots
+- Sample sizes are stated honestly so reviewers know what to trust
+
+## Fails when
+- Conclusions are drawn from segments with too few deals to be reliable
+- All losses are bucketed together, masking the status quo problem
+- Self-reported loss reasons are accepted without scrutiny
+- Recommendations are unspecific ("improve win rate") with no owner

@@ -30,8 +30,8 @@ Walk through these topics in order:
 1. **Industry and vertical** — What industry are your best customers in? Are there sub-verticals that convert better?
 2. **Company size** — Headcount range and revenue range. Where is the sweet spot?
 3. **Job titles and roles** — Who initiates the purchase? Who approves it? Who uses the product daily?
-4. **Pain points** — What specific, measurable problems do they face? Reject generic answers like "they want to save time." Push for: save time on what? How much time? What does that cost them?
-5. **Buying triggers** — What event makes them start looking for a solution right now? (New hire, lost deal, regulation, tool sunset, budget cycle)
+4. **Pain points and the job they hire you for** — What specific, measurable problems do they face? Frame in Jobs-to-be-Done terms: what progress are they trying to make? Reject generic answers like "they want to save time." Push for: save time on what? How much time? What does that cost them?
+5. **Buying triggers (switching events)** — What event makes them start looking for a solution right now? (New hire, lost deal, regulation, tool sunset, budget cycle). This is the JTBD "switching moment" — capture the trigger, not just the search.
 6. **Current solutions** — How do they solve this today? Spreadsheets, competitor, agency, manual process, or ignoring it?
 7. **Disqualifiers** — Who is NOT a fit? Too small, too large, wrong industry, wrong tech stack, wrong buying stage?
 
@@ -73,3 +73,16 @@ Hard stops. If any of these are true, do not pursue.
 - Do not accept "everyone" as a target. Every business has a best-fit customer. Push until you find specifics.
 - Do not skip disqualifiers. Knowing who to avoid saves more time than knowing who to pursue.
 - Do not assume pain points without evidence. "They probably struggle with X" is a hypothesis, not an ICP.
+
+## Succeeds when
+- The ICP is specific enough to disqualify real prospects on the spot
+- Pain points are framed as jobs to be done, with measurable cost of inaction
+- Switching triggers are named events, not generalized motivations
+- The scoring rubric drives actual sales and marketing prioritization
+- Disqualifiers are written down, not assumed
+
+## Fails when
+- The ICP is firmographic only (industry plus size) with no behavioral signal
+- Pain points are generic ("they want efficiency") without measurable cost
+- The doc lists who you want as customers rather than who you actually win
+- No one uses the rubric to make routing or prioritization decisions

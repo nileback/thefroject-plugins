@@ -41,6 +41,16 @@ Write the ICP as a one-paragraph "day in the life" that captures the frustration
 
 ## Step 3 — Positioning Statement
 
+Anchor on April Dunford's *Obviously Awesome* framework. Lock these five components before writing the statement:
+
+1. **Competitive alternatives** — what the buyer would do if you did not exist (including status quo)
+2. **Unique attributes** — capabilities only you (or very few) have
+3. **Value** — the outcome those attributes deliver in measurable terms
+4. **Target segment** — the buyer who cares most about that value
+5. **Market category** — the comparison set the buyer puts you in
+
+Then write the statement:
+
 **For** [target buyer] **who** [key pain point], **[product]** is a **[category]** that **[primary differentiator]**. **Unlike** [primary alternative], **we** [key difference].
 
 Classify: **Category leader** (you define it), **Category creator** (it doesn't exist yet), **Challenger** (clear "why switch"), or **Niche specialist** (own a segment).
@@ -89,3 +99,17 @@ Run four tests. Rewrite until all pass:
 - Skip the ICP
 - Use jargon the buyer wouldn't use
 - Suggest positioning you can't prove within 6 months
+
+## Succeeds when
+- The statement is specific enough that competitors cannot truthfully claim it
+- Sales reps can deliver "what we do" and "why us" in under 30 seconds
+- Prospects respond with "that's exactly what we need" rather than "tell me more about what you do"
+- All five Dunford components are filled in with evidence, not aspirations
+- Different teams describe the product the same way
+
+## Fails when
+- Positioning is so broad anyone in the category could claim it
+- Different teams use different language to explain the product
+- Prospects ask "how is that different from [competitor]?" after hearing the pitch
+- The category choice cannot be defended with proof
+- Positioning is aspirational rather than evidence-based

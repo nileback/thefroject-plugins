@@ -82,3 +82,16 @@ For each competitor:
 ## Output
 
 Complete report with feature matrix, positioning map (ASCII), and per-competitor profiles with strategic analysis.
+
+## Succeeds when
+- The positioning map axes reflect what buyers actually evaluate
+- "Where to compete" and "where to avoid" are both explicit
+- Each competitor profile names a clear strategic direction, not just a snapshot
+- Differentiation opportunities are tied to gaps no competitor is filling
+- Threat levels are defended with reasoning, not assigned by gut
+
+## Fails when
+- The map uses axes that flatter your product instead of axes buyers use
+- Strategic analysis stops at feature comparison
+- Every competitor is rated the same threat level
+- Recommendations apply to "the competition" generally instead of named competitors
