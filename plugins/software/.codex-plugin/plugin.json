@@ -1,0 +1,8 @@
+{
+  "id": "software",
+  "name": "Software",
+  "version": "1.0.0",
+  "description": "Software development toolkit: code review, TDD, debugging, security audits, refactoring, and CI/CD workflows.",
+  "skills": ["./skills/"],
+  "commands": ["./commands/"]
+}

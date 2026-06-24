@@ -1,0 +1,8 @@
+{
+  "id": "customer-success",
+  "name": "Customer Success",
+  "version": "1.0.0",
+  "description": "Customer success toolkit: churn prevention, health scoring, QBRs, renewal strategy, and escalation frameworks.",
+  "skills": ["./skills/"],
+  "commands": ["./commands/"]
+}

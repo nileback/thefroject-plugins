@@ -1,71 +1,108 @@
 {
-  "name": "thefroject-plugins",
-  "owner": {
-    "name": "thefroject"
-  },
-  "metadata": {
-    "description": "Multi-agent workspace toolkits by The Froject. Skills, commands, and rules for every role."
+  "name": "enterprise-capabilities-marketplace",
+  "interface": {
+    "displayName": "Enterprise Agent Capabilities"
   },
   "plugins": [
     {
-      "name": "thefroject-marketing",
-      "source": "./plugins/marketing",
-      "description": "Marketing workspace toolkit: content creation, campaigns, SEO, brand voice, launch playbooks, and analytics.",
-      "version": "1.0.0"
-    },
-    {
-      "name": "thefroject-sales",
-      "source": "./plugins/sales",
-      "description": "Sales workspace toolkit: outreach, deal strategy, competitor intel, pipeline management, and battlecards.",
-      "version": "1.0.0"
-    },
-    {
-      "name": "thefroject-operations",
-      "source": "./plugins/operations",
-      "description": "Operations workspace toolkit: process optimization, compliance, vendor management, SOPs, and project management.",
-      "version": "1.0.0"
-    },
-    {
-      "name": "thefroject-customer-success",
+      "id": "customer-success",
+      "name": "Customer Success",
+      "category": "Workflow",
       "source": "./plugins/customer-success",
-      "description": "Customer success toolkit: churn prevention, health scoring, QBRs, renewal strategy, and escalation frameworks.",
-      "version": "1.0.0"
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "FIRST_USE"
+      }
     },
     {
-      "name": "thefroject-people-culture",
-      "source": "./plugins/people-culture",
-      "description": "People & culture toolkit: job descriptions, interview design, performance reviews, DEI audits, and onboarding.",
-      "version": "1.0.0"
-    },
-    {
-      "name": "thefroject-finance",
-      "source": "./plugins/finance",
-      "description": "Finance workspace toolkit: budgeting, forecasting, financial reporting, billing ops, and audit preparation.",
-      "version": "1.0.0"
-    },
-    {
-      "name": "thefroject-software",
-      "source": "./plugins/software",
-      "description": "Software development toolkit: code review, TDD, debugging, security audits, refactoring, and CI/CD workflows.",
-      "version": "1.0.0"
-    },
-    {
-      "name": "thefroject-data-science",
+      "id": "data-science",
+      "name": "Data Science",
+      "category": "Workflow",
       "source": "./plugins/data-science",
-      "description": "Data science toolkit: data pipelines, analysis, visualization, model evaluation, and documentation.",
-      "version": "1.0.0"
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "FIRST_USE"
+      }
     },
     {
-      "name": "thefroject-product",
+      "id": "finance",
+      "name": "Finance",
+      "category": "Workflow",
+      "source": "./plugins/finance",
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "FIRST_USE"
+      }
+    },
+    {
+      "id": "marketing",
+      "name": "Marketing",
+      "category": "Workflow",
+      "source": "./plugins/marketing",
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "FIRST_USE"
+      }
+    },
+    {
+      "id": "operations",
+      "name": "Operations",
+      "category": "Workflow",
+      "source": "./plugins/operations",
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "FIRST_USE"
+      }
+    },
+    {
+      "id": "people-culture",
+      "name": "People & Culture",
+      "category": "Workflow",
+      "source": "./plugins/people-culture",
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "FIRST_USE"
+      }
+    },
+    {
+      "id": "product",
+      "name": "Product",
+      "category": "Workflow",
       "source": "./plugins/product",
-      "description": "Product management toolkit: PRDs, roadmaps, user research, metrics, launch planning, and stakeholder updates.",
-      "version": "1.0.0"
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "FIRST_USE"
+      }
     },
     {
-      "name": "thefroject-research",
+      "id": "research",
+      "name": "Research",
+      "category": "Workflow",
       "source": "./plugins/research",
-      "description": "Research toolkit: literature review, user interviews, data analysis, multi-source research, and synthesis.",
-      "version": "1.0.0"
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "FIRST_USE"
+      }
+    },
+    {
+      "id": "sales",
+      "name": "Sales",
+      "category": "Workflow",
+      "source": "./plugins/sales",
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "FIRST_USE"
+      }
+    },
+    {
+      "id": "software",
+      "name": "Software",
+      "category": "Workflow",
+      "source": "./plugins/software",
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "FIRST_USE"
+      }
     }
   ]
 }

@@ -1,0 +1,8 @@
+{
+  "id": "data-science",
+  "name": "Data Science",
+  "version": "1.0.0",
+  "description": "Data science toolkit: data pipelines, analysis, visualization, model evaluation, and documentation.",
+  "skills": ["./skills/"],
+  "commands": ["./commands/"]
+}

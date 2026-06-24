@@ -1,0 +1,8 @@
+{
+  "id": "finance",
+  "name": "Finance",
+  "version": "1.0.0",
+  "description": "Finance workspace toolkit: budgeting, forecasting, financial reporting, billing ops, and audit preparation.",
+  "skills": ["./skills/"],
+  "commands": ["./commands/"]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "research",
+  "name": "Research",
+  "version": "1.0.0",
+  "description": "Research toolkit: literature review, user interviews, data analysis, multi-source research, and synthesis.",
+  "skills": ["./skills/"],
+  "commands": ["./commands/"]
+}
