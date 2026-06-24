@@ -1,0 +1,12 @@
+{
+  "name": "thefroject-sales",
+  "version": "1.0.0",
+  "description": "Sales workspace toolkit: outreach, deal strategy, competitor intel, pipeline management, and battlecards.",
+  "author": "The Froject",
+  "homepage": "https://thefroject.com",
+  "repository": "https://github.com/bjorn-ingmanson/thefroject-plugins",
+  "license": "MIT",
+  "type": "agent-extension",
+  "skills": "./skills",
+  "commands": "./commands"
+}
