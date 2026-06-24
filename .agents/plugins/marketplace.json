@@ -1,0 +1,71 @@
+{
+  "name": "thefroject-plugins",
+  "owner": {
+    "name": "thefroject"
+  },
+  "metadata": {
+    "description": "Multi-agent workspace toolkits by The Froject. Skills, commands, and rules for every role."
+  },
+  "plugins": [
+    {
+      "name": "thefroject-marketing",
+      "source": "./plugins/marketing",
+      "description": "Marketing workspace toolkit: content creation, campaigns, SEO, brand voice, launch playbooks, and analytics.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "thefroject-sales",
+      "source": "./plugins/sales",
+      "description": "Sales workspace toolkit: outreach, deal strategy, competitor intel, pipeline management, and battlecards.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "thefroject-operations",
+      "source": "./plugins/operations",
+      "description": "Operations workspace toolkit: process optimization, compliance, vendor management, SOPs, and project management.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "thefroject-customer-success",
+      "source": "./plugins/customer-success",
+      "description": "Customer success toolkit: churn prevention, health scoring, QBRs, renewal strategy, and escalation frameworks.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "thefroject-people-culture",
+      "source": "./plugins/people-culture",
+      "description": "People & culture toolkit: job descriptions, interview design, performance reviews, DEI audits, and onboarding.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "thefroject-finance",
+      "source": "./plugins/finance",
+      "description": "Finance workspace toolkit: budgeting, forecasting, financial reporting, billing ops, and audit preparation.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "thefroject-software",
+      "source": "./plugins/software",
+      "description": "Software development toolkit: code review, TDD, debugging, security audits, refactoring, and CI/CD workflows.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "thefroject-data-science",
+      "source": "./plugins/data-science",
+      "description": "Data science toolkit: data pipelines, analysis, visualization, model evaluation, and documentation.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "thefroject-product",
+      "source": "./plugins/product",
+      "description": "Product management toolkit: PRDs, roadmaps, user research, metrics, launch planning, and stakeholder updates.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "thefroject-research",
+      "source": "./plugins/research",
+      "description": "Research toolkit: literature review, user interviews, data analysis, multi-source research, and synthesis.",
+      "version": "1.0.0"
+    }
+  ]
+}
