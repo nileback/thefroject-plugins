@@ -1,8 +1,12 @@
+# Fork info
+
+⚠️ Restructured to support multiple coding agents. Core content and plugin files are completely untouched. Changes done for personal use. 
+
 # The Froject Plugins
 
-Official Claude Code plugins by **[The Froject](https://www.thefroject.com)** — a free wizard that generates complete Claude Code workspaces for go-to-market teams. This marketplace ships role-specific bundles of skills, commands, and rules you can drop into any Claude Code workspace.
+Official Claude Code plugins by [**The Froject**](https://www.thefroject.com) — a free wizard that generates complete Claude Code workspaces for go-to-market teams. This marketplace ships role-specific bundles of skills, commands, and rules you can drop into any Claude Code workspace.
 
-If you want a complete workspace generated end to end (CLAUDE.md, context files, agents, hooks, settings, the lot), use the wizard at **[thefroject.com](https://www.thefroject.com)**. If you already have a workspace and just want a curated bundle for one role, install a plugin from this repo.
+If you want a complete workspace generated end to end (CLAUDE.md, context files, agents, hooks, settings, the lot), use the wizard at [**thefroject.com**](https://www.thefroject.com). If you already have a workspace and just want a curated bundle for one role, install a plugin from this repo.
 
 ## Install
 
@@ -23,7 +27,7 @@ Then install the plugins you want:
 ## Available plugins
 
 | Plugin | Skills | Commands | Rules |
-|--------|--------|----------|-------|
+| --- | --- | --- | --- |
 | [marketing](./marketing) | 150 | 16 | 10 |
 | [sales](./sales) | 101 | 15 | 9 |
 | [operations](./operations) | 102 | 10 | 10 |
