@@ -4,52 +4,52 @@
   "plugins": [
     {
       "name": "thefroject-marketing",
-      "path": "marketing",
+      "source": "../plugins/marketing",
       "description": "Marketing workspace toolkit: content creation, campaigns, SEO, brand voice, launch playbooks, and analytics."
     },
     {
       "name": "thefroject-sales",
-      "path": "sales",
+      "source": "../plugins/sales",
       "description": "Sales workspace toolkit: outreach, deal strategy, competitor intel, pipeline management, and battlecards."
     },
     {
       "name": "thefroject-operations",
-      "path": "operations",
+      "source": "../plugins/operations",
       "description": "Operations workspace toolkit: process optimization, compliance, vendor management, SOPs, and project management."
     },
     {
       "name": "thefroject-customer-success",
-      "path": "customer-success",
+      "source": "../plugins/customer-success",
       "description": "Customer success toolkit: churn prevention, health scoring, QBRs, renewal strategy, and escalation frameworks."
     },
     {
       "name": "thefroject-people-culture",
-      "path": "people-culture",
+      "source": "../plugins/people-culture",
       "description": "People & culture toolkit: job descriptions, interview design, performance reviews, DEI audits, and onboarding."
     },
     {
       "name": "thefroject-finance",
-      "path": "finance",
+      "source": "../plugins/finance",
       "description": "Finance workspace toolkit: budgeting, forecasting, financial reporting, billing ops, and audit preparation."
     },
     {
       "name": "thefroject-software",
-      "path": "software",
+      "source": "../plugins/software",
       "description": "Software development toolkit: code review, TDD, debugging, security audits, refactoring, and CI/CD workflows."
     },
     {
       "name": "thefroject-data-science",
-      "path": "data-science",
+      "source": "../plugins/data-science",
       "description": "Data science toolkit: data pipelines, analysis, visualization, model evaluation, and documentation."
     },
     {
       "name": "thefroject-product",
-      "path": "product",
+      "source": "../plugins/product",
       "description": "Product management toolkit: PRDs, roadmaps, user research, metrics, launch planning, and stakeholder updates."
     },
     {
       "name": "thefroject-research",
-      "path": "research",
+      "source": "../plugins/research",
       "description": "Research toolkit: literature review, user interviews, data analysis, multi-source research, and synthesis."
     }
   ]

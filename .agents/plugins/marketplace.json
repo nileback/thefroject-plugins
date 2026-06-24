@@ -8,7 +8,7 @@
       "id": "customer-success",
       "name": "Customer Success",
       "category": "Workflow",
-      "source": "./plugins/customer-success",
+      "source": "../../plugins/customer-success",
       "policy": {
         "installation": "AVAILABLE",
         "authentication": "FIRST_USE"
@@ -18,7 +18,7 @@
       "id": "data-science",
       "name": "Data Science",
       "category": "Workflow",
-      "source": "./plugins/data-science",
+      "source": "../../plugins/data-science",
       "policy": {
         "installation": "AVAILABLE",
         "authentication": "FIRST_USE"
@@ -28,7 +28,7 @@
       "id": "finance",
       "name": "Finance",
       "category": "Workflow",
-      "source": "./plugins/finance",
+      "source": "../../plugins/finance",
       "policy": {
         "installation": "AVAILABLE",
         "authentication": "FIRST_USE"
@@ -38,7 +38,7 @@
       "id": "marketing",
       "name": "Marketing",
       "category": "Workflow",
-      "source": "./plugins/marketing",
+      "source": "../../plugins/marketing",
       "policy": {
         "installation": "AVAILABLE",
         "authentication": "FIRST_USE"
@@ -48,7 +48,7 @@
       "id": "operations",
       "name": "Operations",
       "category": "Workflow",
-      "source": "./plugins/operations",
+      "source": "../../plugins/operations",
       "policy": {
         "installation": "AVAILABLE",
         "authentication": "FIRST_USE"
@@ -58,7 +58,7 @@
       "id": "people-culture",
       "name": "People & Culture",
       "category": "Workflow",
-      "source": "./plugins/people-culture",
+      "source": "../../plugins/people-culture",
       "policy": {
         "installation": "AVAILABLE",
         "authentication": "FIRST_USE"
@@ -68,7 +68,7 @@
       "id": "product",
       "name": "Product",
       "category": "Workflow",
-      "source": "./plugins/product",
+      "source": "../../plugins/product",
       "policy": {
         "installation": "AVAILABLE",
         "authentication": "FIRST_USE"
@@ -78,7 +78,7 @@
       "id": "research",
       "name": "Research",
       "category": "Workflow",
-      "source": "./plugins/research",
+      "source": "../../plugins/research",
       "policy": {
         "installation": "AVAILABLE",
         "authentication": "FIRST_USE"
@@ -88,7 +88,7 @@
       "id": "sales",
       "name": "Sales",
       "category": "Workflow",
-      "source": "./plugins/sales",
+      "source": "../../plugins/sales",
       "policy": {
         "installation": "AVAILABLE",
         "authentication": "FIRST_USE"
@@ -98,7 +98,7 @@
       "id": "software",
       "name": "Software",
       "category": "Workflow",
-      "source": "./plugins/software",
+      "source": "../../plugins/software",
       "policy": {
         "installation": "AVAILABLE",
         "authentication": "FIRST_USE"
