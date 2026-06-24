@@ -1,8 +1,17 @@
 {
-  "id": "software",
-  "name": "Software",
+  "name": "thefroject-software",
   "version": "1.0.0",
   "description": "Software development toolkit: code review, TDD, debugging, security audits, refactoring, and CI/CD workflows.",
-  "skills": ["./skills/"],
-  "commands": ["./commands/"]
+  "author": {
+    "name": "The Froject"
+  },
+  "homepage": "https://thefroject.com",
+  "repository": "https://github.com/bjorn-ingmanson/thefroject-plugins",
+  "license": "MIT",
+  "keywords": ["software", "code-review", "debugging", "security", "ci-cd"],
+  "skills": "./skills/",
+  "commands": "./commands/",
+  "interface": {
+    "displayName": "Software"
+  }
 }

@@ -1,8 +1,17 @@
 {
-  "id": "product",
-  "name": "Product",
+  "name": "thefroject-product",
   "version": "1.0.0",
   "description": "Product management toolkit: PRDs, roadmaps, user research, metrics, launch planning, and stakeholder updates.",
-  "skills": ["./skills/"],
-  "commands": ["./commands/"]
+  "author": {
+    "name": "The Froject"
+  },
+  "homepage": "https://thefroject.com",
+  "repository": "https://github.com/bjorn-ingmanson/thefroject-plugins",
+  "license": "MIT",
+  "keywords": ["product", "prds", "roadmaps", "research", "metrics"],
+  "skills": "./skills/",
+  "commands": "./commands/",
+  "interface": {
+    "displayName": "Product"
+  }
 }

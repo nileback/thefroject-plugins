@@ -1,8 +1,17 @@
 {
-  "id": "customer-success",
-  "name": "Customer Success",
+  "name": "thefroject-customer-success",
   "version": "1.0.0",
   "description": "Customer success toolkit: churn prevention, health scoring, QBRs, renewal strategy, and escalation frameworks.",
-  "skills": ["./skills/"],
-  "commands": ["./commands/"]
+  "author": {
+    "name": "The Froject"
+  },
+  "homepage": "https://thefroject.com",
+  "repository": "https://github.com/bjorn-ingmanson/thefroject-plugins",
+  "license": "MIT",
+  "keywords": ["customer-success", "churn", "health-scoring", "renewals", "escalation"],
+  "skills": "./skills/",
+  "commands": "./commands/",
+  "interface": {
+    "displayName": "Customer Success"
+  }
 }

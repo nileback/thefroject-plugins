@@ -1,8 +1,17 @@
 {
-  "id": "people-culture",
-  "name": "People & Culture",
+  "name": "thefroject-people-culture",
   "version": "1.0.0",
   "description": "People & culture toolkit: job descriptions, interview design, performance reviews, DEI audits, and onboarding.",
-  "skills": ["./skills/"],
-  "commands": ["./commands/"]
+  "author": {
+    "name": "The Froject"
+  },
+  "homepage": "https://thefroject.com",
+  "repository": "https://github.com/bjorn-ingmanson/thefroject-plugins",
+  "license": "MIT",
+  "keywords": ["people", "culture", "hiring", "performance", "onboarding"],
+  "skills": "./skills/",
+  "commands": "./commands/",
+  "interface": {
+    "displayName": "People & Culture"
+  }
 }

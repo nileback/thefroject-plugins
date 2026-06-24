@@ -1,8 +1,17 @@
 {
-  "id": "research",
-  "name": "Research",
+  "name": "thefroject-research",
   "version": "1.0.0",
   "description": "Research toolkit: literature review, user interviews, data analysis, multi-source research, and synthesis.",
-  "skills": ["./skills/"],
-  "commands": ["./commands/"]
+  "author": {
+    "name": "The Froject"
+  },
+  "homepage": "https://thefroject.com",
+  "repository": "https://github.com/bjorn-ingmanson/thefroject-plugins",
+  "license": "MIT",
+  "keywords": ["research", "literature-review", "interviews", "analysis", "synthesis"],
+  "skills": "./skills/",
+  "commands": "./commands/",
+  "interface": {
+    "displayName": "Research"
+  }
 }
